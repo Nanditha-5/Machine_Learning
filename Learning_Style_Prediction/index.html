@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learning Style Predictor</title>
+  <style>
+    /* Modern Dark UI with Gradients and Neon Effects */
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #121212;
+      padding: 0;
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #e0e0e0;
+    }
+    
+    .container {
+      width: 90%;
+      max-width: 600px;
+      margin: 20px auto;
+      position: relative;
+    }
+    
+    h1 {
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      text-align: center;
+      margin-bottom: 30px;
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-shadow: 0 0 10px rgba(64, 255, 153, 0.5);
+    }
+    
+    .progress-container {
+      width: 100%;
+      position: relative;
+      height: 8px;
+      margin: 20px 0 40px;
+    }
+    
+    .progress-bar {
+      width: 100%;
+      height: 8px;
+      background: #212121;
+      border-radius: 4px;
+      overflow: hidden;
+      position: relative;
+    }
+    
+    .progress {
+      height: 100%;
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      box-shadow: 0 0 8px rgba(64, 255, 153, 0.5);
+      width: 0%;
+      transition: width 0.3s;
+    }
+    
+    .form-container {
+      background: linear-gradient(#212121, #212121) padding-box,
+        linear-gradient(120deg, transparent 25%, #1cb0ff, #40ff99) border-box;
+      border: 2px solid transparent;
+      padding: 32px 24px;
+      font-size: 14px;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-sizing: border-box;
+      border-radius: 16px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .ray {
+      width: 220px;
+      height: 45px;
+      border-radius: 100px;
+      position: absolute;
+      background-color: #40ff99;
+      opacity: 0.15;
+      box-shadow: 0 0 50px #40ff99;
+      filter: blur(10px);
+      transform-origin: 10%;
+      top: 0%;
+      left: 0;
+      transform: rotate(40deg);
+      z-index: 0;
+    }
+    
+    .line {
+      width: 100%;
+      height: 1px;
+      position: absolute;
+      background-color: #2c2c2c;
+      z-index: 0;
+      opacity: 0.5;
+    }
+    
+    .topl {
+      top: 10%;
+      background: linear-gradient(90deg, #313131 30%, #1d1f1f 70%);
+    }
+    
+    .bottoml {
+      bottom: 10%;
+      background: linear-gradient(90deg, #1d1f1f 30%, #313131 70%);
+    }
+    
+    .leftl {
+      left: 10%;
+      width: 1px;
+      height: 100%;
+      background: linear-gradient(180deg, #313131 30%, #222424 70%);
+    }
+    
+    .rightl {
+      right: 10%;
+      width: 1px;
+      height: 100%;
+      background: linear-gradient(180deg, #222424 30%, #313131 70%);
+    }
+    
+    .quiz-card {
+      display: none;
+    }
+    
+    /*.question-number {
+      position: absolute;
+      top: -15px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      color: #121212;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      box-shadow: 0 0 15px rgba(64, 255, 153, 0.7);
+      z-index: 5;
+    }
+    */
+    .question-text {
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 15px;
+      margin-bottom: 25px;
+      text-align: center;
+      color: #fff;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      position: relative;
+      margin-bottom: 20px;
+      z-index: 1;
+    }
+    
+    .form-group label {
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 12px;
+      pointer-events: none;
+      transition: 0.5s;
+      color: #888;
+    }
+    
+    .form-input {
+      color: white;
+      background: transparent;
+      border: 1px solid #414141;
+      border-radius: 5px;
+      padding: 12px;
+      outline: none;
+      font-size: 16px;
+      width: 100%;
+      box-sizing: border-box;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .form-input:focus {
+      border-color: #1cb0ff;
+      box-shadow: 0 0 5px rgba(28, 176, 255, 0.5);
+    }
+    
+    .form-input:focus ~ label,
+    .form-input:valid ~ label {
+      top: -20px;
+      left: 0;
+      background: #212121 padding-box;
+      padding: 5px 0;
+      color: #1cb0ff;
+      font-size: 12px;
+    }
+    
+    select.form-input {
+      appearance: none;
+      background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23888888%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px top 50%;
+      background-size: 12px auto;
+      padding-right: 30px;
+    }
+    
+    .options-container {
+      z-index: 1;
+      position: relative;
+    }
+    
+    .option {
+      display: block;
+      width: 100%;
+      padding: 12px 15px;
+      margin-bottom: 12px;
+      border: 1px solid #414141;
+      border-radius: 6px;
+      text-align: left;
+      background: rgba(33, 33, 33, 0.5);
+      cursor: pointer;
+      transition: all 0.3s;
+      position: relative;
+      overflow: hidden;
+      color: #fff;
+      font-size: 15px;
+      z-index: 1;
+    }
+    
+    .option::before {
+      content: '';
+      position: absolute;
+      width: 100px;
+      background-image: linear-gradient(90deg, transparent, rgba(28, 176, 255, 0.2), transparent);
+      height: 100%;
+      animation: light 3s linear infinite;
+      top: 0;
+      left: -150px;
+      z-index: 0;
+    }
+    
+    @keyframes light {
+      0% {
+        left: -150px;
+      }
+      50% {
+        left: 100%;
+      }
+      100% {
+        left: 100%;
+      }
+    }
+    
+    .option:hover {
+      border-color: #1cb0ff;
+      background: rgba(28, 176, 255, 0.1);
+    }
+    
+    .option.selected {
+      border-color: #40ff99;
+      background: rgba(64, 255, 153, 0.1);
+      box-shadow: 0 0 10px rgba(64, 255, 153, 0.3);
+    }
+    
+    .option.selected::after {
+      content: '✓';
+      position: absolute;
+      right: 15px;
+      color: #40ff99;
+      z-index: 1;
+    }
+    
+    .button-group {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+      position: relative;
+      z-index: 1;
+    }
+    
+    button {
+      padding: 10px 24px;
+      border: 1px solid #414141;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s;
+      background: #212121;
+      color: #c7c5c5;
+      position: relative;
+      z-index: 1;
+    }
+    
+    button:hover {
+      background: #212121;
+      border-color: #1cb0ff;
+      box-shadow: 0 0 10px rgba(28, 176, 255, 0.3);
+      cursor: pointer;
+    }
+    
+    .prev-btn {
+      background: rgba(33, 33, 33, 0.5);
+      color: #c7c5c5;
+    }
+    
+    .next-btn, .submit-btn, .start-btn, .restart-btn {
+      background: linear-gradient(#212121, #212121) padding-box,
+        linear-gradient(90deg, #1cb0ff, #40ff99) border-box;
+      border: 1px solid transparent;
+      color: #fff;
+    }
+    
+    .result-card {
+      display: none;
+    }
+    
+    .result-heading {
+      font-size: 24px;
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      margin-bottom: 15px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .result-style {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      color: #fff;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .result-style::after {
+      content: '';
+      display: block;
+      width: 50px;
+      height: 2px;
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      margin: 15px auto;
+    }
+    
+    .result-description {
+      text-align: left;
+      line-height: 1.6;
+      margin-bottom: 30px;
+      color: #c7c5c5;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .loading {
+      position: relative;
+      width: 100%;
+      height: 4px;
+      background: #212121;
+      overflow: hidden;
+      margin: 20px 0;
+      z-index: 1;
+    }
+    
+    .loading::after {
+      content: '';
+      position: absolute;
+      width: 30%;
+      height: 100%;
+      background: linear-gradient(90deg, #1cb0ff, #40ff99);
+      animation: loading 1.5s ease-in-out infinite;
+    }
+    
+    @keyframes loading {
+      0% {
+        left: -30%;
+      }
+      100% {
+        left: 100%;
+      }
+    }
+    
+    .restart-btn {
+      display: block;
+      width: 50%;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Find Your Learning Style</h1>
+  
+  <div class="progress-container">
+    <div class="progress-bar">
+      <div class="progress" id="progress"></div>
+    </div>
+  </div>
+  
+  <div class="form-container" id="infoCard">
+    <div class="ray"></div>
+    <div class="line topl"></div>
+    <div class="line bottoml"></div>
+    <div class="line leftl"></div>
+    <div class="line rightl"></div>
+    
+    <h2 style="text-align: center; margin: 0 0 20px; font-size: 22px; position: relative; z-index: 1;">Tell us about yourself</h2>
+    
+    <div class="form-group">
+      <select id="gender" class="form-input" required>
+        <option value=""></option>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+      </select>
+      <label for="gender">Gender</label>
+    </div>
+    
+    <div class="form-group">
+      <input type="number" id="age" class="form-input" min="10" max="100" required>
+      <label for="age">Age</label>
+    </div>
+    
+    <button class="start-btn" id="startBtn">Start Quiz</button>
+  </div>
+  
+  <!-- Quiz Cards Container -->
+  <div id="quizContainer" style="display: none;"></div>
+  
+  <!-- Result Card -->
+  <div class="form-container result-card" id="resultCard">
+    <div class="ray"></div>
+    <div class="line topl"></div>
+    <div class="line bottoml"></div>
+    <div class="line leftl"></div>
+    <div class="line rightl"></div>
+    
+    <div class="result-heading">Your Learning Style Result</div>
+    <div class="result-style" id="resultStyle">Processing...</div>
+    <div class="loading" id="loadingBar"></div>
+    <div class="result-description" id="resultDescription"></div>
+    <button class="restart-btn" id="restartBtn">Take Quiz Again</button>
+  </div>
+</div>
+
+<script>
+  // Questions and options data
+  const questions = [
+    "When studying for an exam, what method do you find most effective?",
+    "When you need to remember a phone number or address, how do you do it?",
+    "If you were to learn how to assemble a piece of furniture, what would you do?",
+    "In a classroom setting, what type of teaching style helps you learn best?",
+    "How do you prefer to express your ideas and thoughts?",
+    "When learning a new language, what method works best for you?",
+    "How do you prefer to organize your work or study materials?",
+    "What kind of environment helps you focus the best when working or studying?",
+    "When you need to remember a key point or quote from a book, how do you do it?",
+    "How do you prefer to solve a problem?"
+  ];
+
+  const options = [
+    ["Drawing diagrams or watching videos (1)", "Listening to recordings or discussing the material (2)", "Writing summaries or reading notes (3)", "Using hands-on practice or engaging in physical activities (4)"],
+    ["I visualize the number (1)", "I say it out loud (2)", "I write it down or read it multiple times (3)", "I repeat it while moving (4)"],
+    ["Look at the diagrams and pictures in the instruction manual (1)", "Watch a video or listen to someone explain the process (2)", "Read the step-by-step instructions (3)", "Start putting it together right away and figure it out as you go (4)"],
+    ["Teachers who use visual aids like slides, charts, or videos (1)", "Teachers who lecture and explain things out loud (2)", "Teachers who provide detailed written notes and reading materials (3)", "Teachers who include activities, experiments, or hands-on learning (4)"],
+    ["Through drawings, diagrams, or visual presentations (1)", "Through speaking or discussions (2)", "Through writing essays, reports, or detailed notes (3)", "Through actions, demonstrations, or role-playing (4)"],
+    ["Using flashcards with pictures or watching videos (1)", "Listening to the language through conversations or audio lessons (2)", "Reading textbooks, articles, or writing out vocabulary (3)", "Practicing speaking with gestures or engaging in interactive activities (4)"],
+    ["By color-coding, using visual organizers, or keeping visual reminders (1)", "By discussing the organization with someone or explaining it out loud (2)", "By making lists, writing out schedules, or taking detailed notes (3)", "By arranging items physically or creating hands-on displays (4)"],
+    ["A space with visual inspiration, like posters or visual organizers (1)", "A space where you can listen to music or discussions without distractions (2)", "A quiet space where you can read or write without interruptions (3)", "A space where you can move around, stand, or engage in physical activities (4)"],
+    ["I visualize the page in my mind or remember the picture associated with the point (1)", "I repeat the quote out loud or discuss it with someone else (2)", "I write it down in my notes or underline it in the book (3)", "I remember the context by associating the quote with an action or physical movement I made while reading (4)"],
+    ["By visualizing the problem and solution in your head (1)", "By talking through the problem with others or hearing different perspectives (2)", "By writing out the problem and working through it step by step (3)", "By trying different solutions through trial and error (4)"]
+  ];
+
+  // Learning style descriptions
+  const learningStyleDescriptions = {
+    "Visual": "You learn best through visual aids such as diagrams, charts, videos, and spatial understanding. Visual learners often prefer to see information presented graphically and may think in pictures. To optimize your learning, use color-coding, mind maps, and visual cues when studying.",
+    
+    "Auditory": "You learn best through listening and verbal communication. Auditory learners benefit from discussions, lectures, and talking through concepts. To enhance your learning, consider reading aloud, participating in group discussions, and using voice recordings for review.",
+    
+    "Reading/Writing": "You learn best through written words and text-based input. Reading/writing learners excel when information is displayed as text and benefit from making lists, reading textbooks, and taking detailed notes. To maximize your learning, focus on text-based resources and writing summaries of information.",
+    
+    "Kinesthetic": "You learn best through physical activities and hands-on experiences. Kinesthetic learners need to touch, move, and do in order to understand concepts fully. To improve your learning, incorporate movement into study sessions, use hands-on experiments, and take frequent breaks for physical activity."
+  };
+
+  // Variables to track quiz state
+  let currentQuestion = 0;
+  const userAnswers = [];
+  
+  // DOM elements
+  const infoCard = document.getElementById('infoCard');
+  const quizContainer = document.getElementById('quizContainer');
+  const resultCard = document.getElementById('resultCard');
+  const progressBar = document.getElementById('progress');
+  
+  // Start button event handler
+  document.getElementById('startBtn').addEventListener('click', function() {
+    const gender = document.getElementById('gender').value;
+    const age = document.getElementById('age').value;
+    
+    if (!gender || !age) {
+      alert('Please fill out all fields');
+      return;
+    }
+    
+    infoCard.style.display = 'none';
+    quizContainer.style.display = 'block';
+    createQuizCards();
+    showQuestion(0);
+  });
+  
+  // Restart button event handler
+  document.getElementById('restartBtn').addEventListener('click', function() {
+    location.reload();
+  });
+  
+  // Create all question cards
+  function createQuizCards() {
+    quizContainer.innerHTML = '';
+    
+    questions.forEach((question, index) => {
+      const card = document.createElement('div');
+      card.id = `question-${index}`;
+      card.className = 'form-container quiz-card';
+      card.style.display = 'none';
+      
+      // Add visual elements
+      const ray = document.createElement('div');
+      ray.className = 'ray';
+      card.appendChild(ray);
+      
+      const lines = ['topl', 'bottoml', 'leftl', 'rightl'];
+      lines.forEach(lineClass => {
+        const line = document.createElement('div');
+        line.className = `line ${lineClass}`;
+        card.appendChild(line);
+      });
+      
+      // Question number badge
+      const numberBadge = document.createElement('div');
+      numberBadge.className = 'question-number';
+      numberBadge.textContent = index + 1;
+      card.appendChild(numberBadge);
+      
+      // Question text
+      const questionText = document.createElement('div');
+      questionText.className = 'question-text';
+      questionText.textContent = question;
+      card.appendChild(questionText);
+      
+      // Options
+      const optionsContainer = document.createElement('div');
+      optionsContainer.className = 'options-container';
+      
+      options[index].forEach((optionText, optIndex) => {
+        const option = document.createElement('button');
+        option.className = 'option';
+        option.textContent = optionText;
+        
+        // Extract value from option text (e.g., "(1)")
+        const value = optionText.match(/\((\d+)\)/)[1];
+        
+        option.addEventListener('click', function() {
+          // Clear previous selections
+          const allOptions = optionsContainer.querySelectorAll('.option');
+          allOptions.forEach(opt => opt.classList.remove('selected'));
+          
+          // Mark this option as selected
+          this.classList.add('selected');
+          
+          // Save answer
+          userAnswers[index] = value;
+        });
+        
+        optionsContainer.appendChild(option);
+      });
+      
+      card.appendChild(optionsContainer);
+      
+      // Navigation buttons
+      const buttonGroup = document.createElement('div');
+      buttonGroup.className = 'button-group';
+      
+      const prevButton = document.createElement('button');
+      prevButton.className = 'prev-btn';
+      prevButton.textContent = 'Previous';
+      prevButton.style.visibility = index === 0 ? 'hidden' : 'visible';
+      prevButton.addEventListener('click', function() {
+        showQuestion(index - 1);
+      });
+      
+      const nextButton = document.createElement('button');
+      
+      if (index === questions.length - 1) {
+        nextButton.className = 'submit-btn';
+        nextButton.textContent = 'Submit';
+        nextButton.addEventListener('click', function() {
+          if (!userAnswers[index]) {
+            alert('Please select an answer before submitting.');
+            return;
+          }
+          submitQuiz();
+        });
+      } else {
+        nextButton.className = 'next-btn';
+        nextButton.textContent = 'Next';
+        nextButton.addEventListener('click', function() {
+          if (!userAnswers[index]) {
+            alert('Please select an answer before continuing.');
+            return;
+          }
+          showQuestion(index + 1);
+        });
+      }
+      
+      buttonGroup.appendChild(prevButton);
+      buttonGroup.appendChild(nextButton);
+      card.appendChild(buttonGroup);
+      
+      quizContainer.appendChild(card);
+    });
+  }
+  
+  // Show a specific question
+  function showQuestion(index) {
+    // Hide all questions
+    document.querySelectorAll('.quiz-card').forEach(card => {
+      card.style.display = 'none';
+    });
+    
+    // Show current question
+    document.getElementById(`question-${index}`).style.display = 'flex';
+    
+    // Update current question index
+    currentQuestion = index;
+    
+    // Update progress bar
+    updateProgress();
+    
+    // If we already have an answer for this question, highlight it
+    if (userAnswers[index]) {
+      const options = document.querySelectorAll(`#question-${index} .option`);
+      options.forEach(option => {
+        const value = option.textContent.match(/\((\d+)\)/)[1];
+        if (value === userAnswers[index]) {
+          option.classList.add('selected');
+        }
+      });
+    }
+  }
+  
+  // Update progress bar
+  function updateProgress() {
+    const totalQuestions = questions.length;
+    const progress = ((currentQuestion + 1) / totalQuestions) * 100;
+    progressBar.style.width = `${progress}%`;
+  }
+  
+  // Submit quiz and get results
+  function submitQuiz() {
+    const gender = document.getElementById('gender').value;
+    const age = document.getElementById('age').value;
+    
+    // Prepare data for API
+    const quizData = {
+      gender: gender,
+      age: age,
+      answers: userAnswers
+    };
+    
+    console.log("Submitting data:", quizData);
+    
+    // Hide quiz container
+    quizContainer.style.display = 'none';
+    
+    // Show result card with loading state
+    resultCard.style.display = 'flex';
+    document.getElementById('resultStyle').textContent = 'Processing...';
+    document.getElementById('resultDescription').textContent = 'Please wait while we analyze your learning style...';
+    document.getElementById('loadingBar').style.display = 'block';
+    
+    // For demo purposes, determine learning style directly
+    // In production, you would send this to your API
+    setTimeout(() => {
+      const learningStyleScores = calculateLearningStyle(userAnswers);
+      const learningStyle = determineLearningStyle(learningStyleScores);
+      
+      document.getElementById('loadingBar').style.display = 'none';
+      document.getElementById('resultStyle').textContent = learningStyle;
+      document.getElementById('resultDescription').textContent = learningStyleDescriptions[learningStyle];
+    }, 1500);
+  }
+  
+  // Calculate learning style from answers (1=Visual, 2=Auditory, 3=Reading/Writing, 4=Kinesthetic)
+  function calculateLearningStyle(answers) {
+    const scores = {
+      "1": 0, // Visual
+      "2": 0, // Auditory
+      "3": 0, // Reading/Writing
+      "4": 0  // Kinesthetic
+    };
+    
+    answers.forEach(answer => {
+      scores[answer]++;
+    });
+    
+    return scores;
+  }
+  
+  // Determine the predominant learning style
+  function determineLearningStyle(scores) {
+    const styleMap = {
+      "1": "Visual",
+      "2": "Auditory",
+      "3": "Reading/Writing",
+      "4": "Kinesthetic"
+    };
+    
+    let maxScore = 0;
+    let dominantStyle = "1";
+    
+    for (const [style, score] of Object.entries(scores)) {
+      if (score > maxScore) {
+        maxScore = score;
+        dominantStyle = style;
+      }
+    }
+    
+    return styleMap[dominantStyle];
+  }
+</script>
+</body>
+</html>
