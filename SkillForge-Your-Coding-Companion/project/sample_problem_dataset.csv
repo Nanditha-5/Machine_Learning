@@ -1,0 +1,1001 @@
+problem_id,problem_name,description,skill_level,difficulty,max_score
+P0001,Easy Data Structures Problem 1,This is a easy level problem related to data structures.,Basic,Easy,60
+P0002,Medium Data Structures Problem 2,This is a medium level problem related to data structures.,Intermediate,Medium,21
+P0003,Easy Graphs Problem 3,This is a easy level problem related to graphs.,Basic,Easy,14
+P0004,Easy Greedy Problem 4,This is a easy level problem related to greedy.,Basic,Easy,89
+P0005,Hard Dynamic Programming Problem 5,This is a hard level problem related to dynamic programming.,Advanced,Hard,22
+P0006,Easy Data Structures Problem 6,This is a easy level problem related to data structures.,Basic,Easy,66
+P0007,Medium Data Structures Problem 7,This is a medium level problem related to data structures.,Intermediate,Medium,79
+P0008,Hard Data Structures Problem 8,This is a hard level problem related to data structures.,Advanced,Hard,26
+P0009,Medium Dynamic Programming Problem 9,This is a medium level problem related to dynamic programming.,Intermediate,Medium,31
+P0010,Medium Data Structures Problem 10,This is a medium level problem related to data structures.,Intermediate,Medium,85
+P0011,Medium Greedy Problem 11,This is a medium level problem related to greedy.,Intermediate,Medium,23
+P0012,Hard Dynamic Programming Problem 12,This is a hard level problem related to dynamic programming.,Advanced,Hard,51
+P0013,Easy Algorithm Problem 13,This is a easy level problem related to algorithm.,Basic,Easy,71
+P0014,Hard Algorithm Problem 14,This is a hard level problem related to algorithm.,Advanced,Hard,17
+P0015,Medium Algorithm Problem 15,This is a medium level problem related to algorithm.,Intermediate,Medium,26
+P0016,Medium Greedy Problem 16,This is a medium level problem related to greedy.,Intermediate,Medium,64
+P0017,Medium Dynamic Programming Problem 17,This is a medium level problem related to dynamic programming.,Intermediate,Medium,31
+P0018,Medium Math Problem 18,This is a medium level problem related to math.,Intermediate,Medium,98
+P0019,Easy Algorithm Problem 19,This is a easy level problem related to algorithm.,Basic,Easy,65
+P0020,Easy Data Structures Problem 20,This is a easy level problem related to data structures.,Basic,Easy,26
+P0021,Easy Graphs Problem 21,This is a easy level problem related to graphs.,Basic,Easy,97
+P0022,Medium Math Problem 22,This is a medium level problem related to math.,Intermediate,Medium,18
+P0023,Medium Greedy Problem 23,This is a medium level problem related to greedy.,Intermediate,Medium,47
+P0024,Hard Graphs Problem 24,This is a hard level problem related to graphs.,Advanced,Hard,10
+P0025,Medium Math Problem 25,This is a medium level problem related to math.,Intermediate,Medium,75
+P0026,Hard Graphs Problem 26,This is a hard level problem related to graphs.,Advanced,Hard,58
+P0027,Medium Greedy Problem 27,This is a medium level problem related to greedy.,Intermediate,Medium,48
+P0028,Easy Data Structures Problem 28,This is a easy level problem related to data structures.,Basic,Easy,97
+P0029,Hard Greedy Problem 29,This is a hard level problem related to greedy.,Advanced,Hard,14
+P0030,Hard Math Problem 30,This is a hard level problem related to math.,Advanced,Hard,83
+P0031,Easy Algorithm Problem 31,This is a easy level problem related to algorithm.,Basic,Easy,58
+P0032,Easy Data Structures Problem 32,This is a easy level problem related to data structures.,Basic,Easy,26
+P0033,Medium Data Structures Problem 33,This is a medium level problem related to data structures.,Intermediate,Medium,94
+P0034,Medium Dynamic Programming Problem 34,This is a medium level problem related to dynamic programming.,Intermediate,Medium,76
+P0035,Hard Dynamic Programming Problem 35,This is a hard level problem related to dynamic programming.,Advanced,Hard,61
+P0036,Easy Math Problem 36,This is a easy level problem related to math.,Basic,Easy,29
+P0037,Easy Data Structures Problem 37,This is a easy level problem related to data structures.,Basic,Easy,54
+P0038,Hard Greedy Problem 38,This is a hard level problem related to greedy.,Advanced,Hard,58
+P0039,Medium Data Structures Problem 39,This is a medium level problem related to data structures.,Intermediate,Medium,15
+P0040,Medium Greedy Problem 40,This is a medium level problem related to greedy.,Intermediate,Medium,48
+P0041,Easy Graphs Problem 41,This is a easy level problem related to graphs.,Basic,Easy,44
+P0042,Hard Data Structures Problem 42,This is a hard level problem related to data structures.,Advanced,Hard,66
+P0043,Easy Graphs Problem 43,This is a easy level problem related to graphs.,Basic,Easy,25
+P0044,Medium Dynamic Programming Problem 44,This is a medium level problem related to dynamic programming.,Intermediate,Medium,20
+P0045,Hard Greedy Problem 45,This is a hard level problem related to greedy.,Advanced,Hard,22
+P0046,Easy Greedy Problem 46,This is a easy level problem related to greedy.,Basic,Easy,70
+P0047,Medium Math Problem 47,This is a medium level problem related to math.,Intermediate,Medium,40
+P0048,Medium Data Structures Problem 48,This is a medium level problem related to data structures.,Intermediate,Medium,13
+P0049,Easy Math Problem 49,This is a easy level problem related to math.,Basic,Easy,63
+P0050,Easy Greedy Problem 50,This is a easy level problem related to greedy.,Basic,Easy,45
+P0051,Easy Algorithm Problem 51,This is a easy level problem related to algorithm.,Basic,Easy,13
+P0052,Easy Algorithm Problem 52,This is a easy level problem related to algorithm.,Basic,Easy,95
+P0053,Hard Math Problem 53,This is a hard level problem related to math.,Advanced,Hard,87
+P0054,Medium Math Problem 54,This is a medium level problem related to math.,Intermediate,Medium,14
+P0055,Hard Data Structures Problem 55,This is a hard level problem related to data structures.,Advanced,Hard,10
+P0056,Medium Algorithm Problem 56,This is a medium level problem related to algorithm.,Intermediate,Medium,83
+P0057,Easy Math Problem 57,This is a easy level problem related to math.,Basic,Easy,60
+P0058,Hard Dynamic Programming Problem 58,This is a hard level problem related to dynamic programming.,Advanced,Hard,66
+P0059,Medium Graphs Problem 59,This is a medium level problem related to graphs.,Intermediate,Medium,86
+P0060,Hard Data Structures Problem 60,This is a hard level problem related to data structures.,Advanced,Hard,99
+P0061,Hard Graphs Problem 61,This is a hard level problem related to graphs.,Advanced,Hard,50
+P0062,Hard Graphs Problem 62,This is a hard level problem related to graphs.,Advanced,Hard,27
+P0063,Hard Greedy Problem 63,This is a hard level problem related to greedy.,Advanced,Hard,99
+P0064,Hard Algorithm Problem 64,This is a hard level problem related to algorithm.,Advanced,Hard,86
+P0065,Medium Greedy Problem 65,This is a medium level problem related to greedy.,Intermediate,Medium,77
+P0066,Hard Math Problem 66,This is a hard level problem related to math.,Advanced,Hard,81
+P0067,Easy Data Structures Problem 67,This is a easy level problem related to data structures.,Basic,Easy,85
+P0068,Easy Dynamic Programming Problem 68,This is a easy level problem related to dynamic programming.,Basic,Easy,95
+P0069,Medium Graphs Problem 69,This is a medium level problem related to graphs.,Intermediate,Medium,10
+P0070,Easy Math Problem 70,This is a easy level problem related to math.,Basic,Easy,86
+P0071,Hard Dynamic Programming Problem 71,This is a hard level problem related to dynamic programming.,Advanced,Hard,94
+P0072,Hard Graphs Problem 72,This is a hard level problem related to graphs.,Advanced,Hard,69
+P0073,Hard Graphs Problem 73,This is a hard level problem related to graphs.,Advanced,Hard,100
+P0074,Hard Dynamic Programming Problem 74,This is a hard level problem related to dynamic programming.,Advanced,Hard,73
+P0075,Hard Algorithm Problem 75,This is a hard level problem related to algorithm.,Advanced,Hard,89
+P0076,Easy Dynamic Programming Problem 76,This is a easy level problem related to dynamic programming.,Basic,Easy,26
+P0077,Hard Greedy Problem 77,This is a hard level problem related to greedy.,Advanced,Hard,53
+P0078,Medium Algorithm Problem 78,This is a medium level problem related to algorithm.,Intermediate,Medium,91
+P0079,Hard Graphs Problem 79,This is a hard level problem related to graphs.,Advanced,Hard,29
+P0080,Hard Graphs Problem 80,This is a hard level problem related to graphs.,Advanced,Hard,94
+P0081,Hard Data Structures Problem 81,This is a hard level problem related to data structures.,Advanced,Hard,86
+P0082,Hard Dynamic Programming Problem 82,This is a hard level problem related to dynamic programming.,Advanced,Hard,42
+P0083,Hard Dynamic Programming Problem 83,This is a hard level problem related to dynamic programming.,Advanced,Hard,51
+P0084,Hard Greedy Problem 84,This is a hard level problem related to greedy.,Advanced,Hard,88
+P0085,Easy Graphs Problem 85,This is a easy level problem related to graphs.,Basic,Easy,30
+P0086,Easy Data Structures Problem 86,This is a easy level problem related to data structures.,Basic,Easy,88
+P0087,Easy Graphs Problem 87,This is a easy level problem related to graphs.,Basic,Easy,89
+P0088,Medium Greedy Problem 88,This is a medium level problem related to greedy.,Intermediate,Medium,58
+P0089,Hard Dynamic Programming Problem 89,This is a hard level problem related to dynamic programming.,Advanced,Hard,83
+P0090,Hard Graphs Problem 90,This is a hard level problem related to graphs.,Advanced,Hard,67
+P0091,Easy Math Problem 91,This is a easy level problem related to math.,Basic,Easy,86
+P0092,Easy Algorithm Problem 92,This is a easy level problem related to algorithm.,Basic,Easy,49
+P0093,Easy Math Problem 93,This is a easy level problem related to math.,Basic,Easy,87
+P0094,Easy Math Problem 94,This is a easy level problem related to math.,Basic,Easy,11
+P0095,Easy Graphs Problem 95,This is a easy level problem related to graphs.,Basic,Easy,21
+P0096,Hard Data Structures Problem 96,This is a hard level problem related to data structures.,Advanced,Hard,37
+P0097,Easy Data Structures Problem 97,This is a easy level problem related to data structures.,Basic,Easy,83
+P0098,Medium Dynamic Programming Problem 98,This is a medium level problem related to dynamic programming.,Intermediate,Medium,36
+P0099,Easy Math Problem 99,This is a easy level problem related to math.,Basic,Easy,40
+P0100,Hard Greedy Problem 100,This is a hard level problem related to greedy.,Advanced,Hard,57
+P0101,Hard Graphs Problem 101,This is a hard level problem related to graphs.,Advanced,Hard,26
+P0102,Medium Math Problem 102,This is a medium level problem related to math.,Intermediate,Medium,94
+P0103,Easy Greedy Problem 103,This is a easy level problem related to greedy.,Basic,Easy,27
+P0104,Hard Algorithm Problem 104,This is a hard level problem related to algorithm.,Advanced,Hard,31
+P0105,Hard Algorithm Problem 105,This is a hard level problem related to algorithm.,Advanced,Hard,60
+P0106,Hard Graphs Problem 106,This is a hard level problem related to graphs.,Advanced,Hard,87
+P0107,Medium Graphs Problem 107,This is a medium level problem related to graphs.,Intermediate,Medium,43
+P0108,Medium Algorithm Problem 108,This is a medium level problem related to algorithm.,Intermediate,Medium,81
+P0109,Medium Graphs Problem 109,This is a medium level problem related to graphs.,Intermediate,Medium,42
+P0110,Easy Data Structures Problem 110,This is a easy level problem related to data structures.,Basic,Easy,90
+P0111,Easy Dynamic Programming Problem 111,This is a easy level problem related to dynamic programming.,Basic,Easy,86
+P0112,Easy Greedy Problem 112,This is a easy level problem related to greedy.,Basic,Easy,38
+P0113,Medium Greedy Problem 113,This is a medium level problem related to greedy.,Intermediate,Medium,13
+P0114,Hard Data Structures Problem 114,This is a hard level problem related to data structures.,Advanced,Hard,68
+P0115,Hard Algorithm Problem 115,This is a hard level problem related to algorithm.,Advanced,Hard,10
+P0116,Hard Data Structures Problem 116,This is a hard level problem related to data structures.,Advanced,Hard,92
+P0117,Medium Math Problem 117,This is a medium level problem related to math.,Intermediate,Medium,64
+P0118,Hard Data Structures Problem 118,This is a hard level problem related to data structures.,Advanced,Hard,15
+P0119,Easy Data Structures Problem 119,This is a easy level problem related to data structures.,Basic,Easy,55
+P0120,Medium Greedy Problem 120,This is a medium level problem related to greedy.,Intermediate,Medium,69
+P0121,Medium Data Structures Problem 121,This is a medium level problem related to data structures.,Intermediate,Medium,59
+P0122,Hard Algorithm Problem 122,This is a hard level problem related to algorithm.,Advanced,Hard,93
+P0123,Hard Algorithm Problem 123,This is a hard level problem related to algorithm.,Advanced,Hard,64
+P0124,Hard Data Structures Problem 124,This is a hard level problem related to data structures.,Advanced,Hard,95
+P0125,Easy Math Problem 125,This is a easy level problem related to math.,Basic,Easy,47
+P0126,Hard Graphs Problem 126,This is a hard level problem related to graphs.,Advanced,Hard,85
+P0127,Medium Math Problem 127,This is a medium level problem related to math.,Intermediate,Medium,56
+P0128,Easy Greedy Problem 128,This is a easy level problem related to greedy.,Basic,Easy,65
+P0129,Medium Dynamic Programming Problem 129,This is a medium level problem related to dynamic programming.,Intermediate,Medium,12
+P0130,Medium Algorithm Problem 130,This is a medium level problem related to algorithm.,Intermediate,Medium,19
+P0131,Easy Math Problem 131,This is a easy level problem related to math.,Basic,Easy,98
+P0132,Medium Algorithm Problem 132,This is a medium level problem related to algorithm.,Intermediate,Medium,69
+P0133,Easy Algorithm Problem 133,This is a easy level problem related to algorithm.,Basic,Easy,85
+P0134,Hard Greedy Problem 134,This is a hard level problem related to greedy.,Advanced,Hard,11
+P0135,Hard Algorithm Problem 135,This is a hard level problem related to algorithm.,Advanced,Hard,69
+P0136,Hard Graphs Problem 136,This is a hard level problem related to graphs.,Advanced,Hard,57
+P0137,Hard Greedy Problem 137,This is a hard level problem related to greedy.,Advanced,Hard,45
+P0138,Easy Dynamic Programming Problem 138,This is a easy level problem related to dynamic programming.,Basic,Easy,48
+P0139,Easy Graphs Problem 139,This is a easy level problem related to graphs.,Basic,Easy,26
+P0140,Medium Algorithm Problem 140,This is a medium level problem related to algorithm.,Intermediate,Medium,80
+P0141,Hard Algorithm Problem 141,This is a hard level problem related to algorithm.,Advanced,Hard,33
+P0142,Hard Algorithm Problem 142,This is a hard level problem related to algorithm.,Advanced,Hard,28
+P0143,Easy Graphs Problem 143,This is a easy level problem related to graphs.,Basic,Easy,77
+P0144,Hard Dynamic Programming Problem 144,This is a hard level problem related to dynamic programming.,Advanced,Hard,29
+P0145,Medium Greedy Problem 145,This is a medium level problem related to greedy.,Intermediate,Medium,72
+P0146,Medium Graphs Problem 146,This is a medium level problem related to graphs.,Intermediate,Medium,48
+P0147,Hard Math Problem 147,This is a hard level problem related to math.,Advanced,Hard,23
+P0148,Hard Data Structures Problem 148,This is a hard level problem related to data structures.,Advanced,Hard,64
+P0149,Easy Graphs Problem 149,This is a easy level problem related to graphs.,Basic,Easy,11
+P0150,Medium Math Problem 150,This is a medium level problem related to math.,Intermediate,Medium,59
+P0151,Medium Math Problem 151,This is a medium level problem related to math.,Intermediate,Medium,77
+P0152,Medium Dynamic Programming Problem 152,This is a medium level problem related to dynamic programming.,Intermediate,Medium,40
+P0153,Medium Greedy Problem 153,This is a medium level problem related to greedy.,Intermediate,Medium,61
+P0154,Easy Greedy Problem 154,This is a easy level problem related to greedy.,Basic,Easy,92
+P0155,Medium Greedy Problem 155,This is a medium level problem related to greedy.,Intermediate,Medium,69
+P0156,Hard Math Problem 156,This is a hard level problem related to math.,Advanced,Hard,19
+P0157,Easy Math Problem 157,This is a easy level problem related to math.,Basic,Easy,65
+P0158,Easy Dynamic Programming Problem 158,This is a easy level problem related to dynamic programming.,Basic,Easy,51
+P0159,Hard Dynamic Programming Problem 159,This is a hard level problem related to dynamic programming.,Advanced,Hard,50
+P0160,Medium Algorithm Problem 160,This is a medium level problem related to algorithm.,Intermediate,Medium,24
+P0161,Medium Dynamic Programming Problem 161,This is a medium level problem related to dynamic programming.,Intermediate,Medium,66
+P0162,Easy Greedy Problem 162,This is a easy level problem related to greedy.,Basic,Easy,100
+P0163,Easy Dynamic Programming Problem 163,This is a easy level problem related to dynamic programming.,Basic,Easy,42
+P0164,Hard Math Problem 164,This is a hard level problem related to math.,Advanced,Hard,84
+P0165,Hard Algorithm Problem 165,This is a hard level problem related to algorithm.,Advanced,Hard,98
+P0166,Easy Dynamic Programming Problem 166,This is a easy level problem related to dynamic programming.,Basic,Easy,69
+P0167,Hard Dynamic Programming Problem 167,This is a hard level problem related to dynamic programming.,Advanced,Hard,21
+P0168,Easy Algorithm Problem 168,This is a easy level problem related to algorithm.,Basic,Easy,98
+P0169,Easy Greedy Problem 169,This is a easy level problem related to greedy.,Basic,Easy,62
+P0170,Medium Graphs Problem 170,This is a medium level problem related to graphs.,Intermediate,Medium,79
+P0171,Easy Graphs Problem 171,This is a easy level problem related to graphs.,Basic,Easy,36
+P0172,Medium Data Structures Problem 172,This is a medium level problem related to data structures.,Intermediate,Medium,71
+P0173,Easy Data Structures Problem 173,This is a easy level problem related to data structures.,Basic,Easy,68
+P0174,Hard Graphs Problem 174,This is a hard level problem related to graphs.,Advanced,Hard,80
+P0175,Easy Algorithm Problem 175,This is a easy level problem related to algorithm.,Basic,Easy,52
+P0176,Medium Graphs Problem 176,This is a medium level problem related to graphs.,Intermediate,Medium,29
+P0177,Hard Data Structures Problem 177,This is a hard level problem related to data structures.,Advanced,Hard,67
+P0178,Easy Math Problem 178,This is a easy level problem related to math.,Basic,Easy,64
+P0179,Medium Dynamic Programming Problem 179,This is a medium level problem related to dynamic programming.,Intermediate,Medium,99
+P0180,Hard Dynamic Programming Problem 180,This is a hard level problem related to dynamic programming.,Advanced,Hard,88
+P0181,Medium Math Problem 181,This is a medium level problem related to math.,Intermediate,Medium,28
+P0182,Hard Dynamic Programming Problem 182,This is a hard level problem related to dynamic programming.,Advanced,Hard,23
+P0183,Hard Dynamic Programming Problem 183,This is a hard level problem related to dynamic programming.,Advanced,Hard,28
+P0184,Medium Algorithm Problem 184,This is a medium level problem related to algorithm.,Intermediate,Medium,27
+P0185,Hard Dynamic Programming Problem 185,This is a hard level problem related to dynamic programming.,Advanced,Hard,95
+P0186,Medium Dynamic Programming Problem 186,This is a medium level problem related to dynamic programming.,Intermediate,Medium,21
+P0187,Hard Algorithm Problem 187,This is a hard level problem related to algorithm.,Advanced,Hard,11
+P0188,Hard Greedy Problem 188,This is a hard level problem related to greedy.,Advanced,Hard,87
+P0189,Medium Data Structures Problem 189,This is a medium level problem related to data structures.,Intermediate,Medium,79
+P0190,Hard Math Problem 190,This is a hard level problem related to math.,Advanced,Hard,37
+P0191,Easy Dynamic Programming Problem 191,This is a easy level problem related to dynamic programming.,Basic,Easy,98
+P0192,Hard Dynamic Programming Problem 192,This is a hard level problem related to dynamic programming.,Advanced,Hard,31
+P0193,Easy Math Problem 193,This is a easy level problem related to math.,Basic,Easy,17
+P0194,Hard Greedy Problem 194,This is a hard level problem related to greedy.,Advanced,Hard,17
+P0195,Hard Graphs Problem 195,This is a hard level problem related to graphs.,Advanced,Hard,79
+P0196,Easy Dynamic Programming Problem 196,This is a easy level problem related to dynamic programming.,Basic,Easy,83
+P0197,Medium Graphs Problem 197,This is a medium level problem related to graphs.,Intermediate,Medium,20
+P0198,Hard Data Structures Problem 198,This is a hard level problem related to data structures.,Advanced,Hard,36
+P0199,Medium Algorithm Problem 199,This is a medium level problem related to algorithm.,Intermediate,Medium,33
+P0200,Medium Math Problem 200,This is a medium level problem related to math.,Intermediate,Medium,14
+P0201,Easy Algorithm Problem 201,This is a easy level problem related to algorithm.,Basic,Easy,33
+P0202,Hard Data Structures Problem 202,This is a hard level problem related to data structures.,Advanced,Hard,84
+P0203,Medium Dynamic Programming Problem 203,This is a medium level problem related to dynamic programming.,Intermediate,Medium,31
+P0204,Easy Algorithm Problem 204,This is a easy level problem related to algorithm.,Basic,Easy,64
+P0205,Hard Data Structures Problem 205,This is a hard level problem related to data structures.,Advanced,Hard,61
+P0206,Easy Greedy Problem 206,This is a easy level problem related to greedy.,Basic,Easy,83
+P0207,Easy Math Problem 207,This is a easy level problem related to math.,Basic,Easy,99
+P0208,Hard Algorithm Problem 208,This is a hard level problem related to algorithm.,Advanced,Hard,30
+P0209,Easy Greedy Problem 209,This is a easy level problem related to greedy.,Basic,Easy,74
+P0210,Hard Dynamic Programming Problem 210,This is a hard level problem related to dynamic programming.,Advanced,Hard,62
+P0211,Easy Data Structures Problem 211,This is a easy level problem related to data structures.,Basic,Easy,53
+P0212,Easy Math Problem 212,This is a easy level problem related to math.,Basic,Easy,52
+P0213,Medium Algorithm Problem 213,This is a medium level problem related to algorithm.,Intermediate,Medium,94
+P0214,Easy Math Problem 214,This is a easy level problem related to math.,Basic,Easy,22
+P0215,Easy Math Problem 215,This is a easy level problem related to math.,Basic,Easy,96
+P0216,Medium Data Structures Problem 216,This is a medium level problem related to data structures.,Intermediate,Medium,31
+P0217,Hard Greedy Problem 217,This is a hard level problem related to greedy.,Advanced,Hard,64
+P0218,Hard Algorithm Problem 218,This is a hard level problem related to algorithm.,Advanced,Hard,67
+P0219,Medium Math Problem 219,This is a medium level problem related to math.,Intermediate,Medium,14
+P0220,Easy Graphs Problem 220,This is a easy level problem related to graphs.,Basic,Easy,43
+P0221,Medium Graphs Problem 221,This is a medium level problem related to graphs.,Intermediate,Medium,85
+P0222,Easy Math Problem 222,This is a easy level problem related to math.,Basic,Easy,97
+P0223,Easy Data Structures Problem 223,This is a easy level problem related to data structures.,Basic,Easy,61
+P0224,Easy Math Problem 224,This is a easy level problem related to math.,Basic,Easy,61
+P0225,Hard Math Problem 225,This is a hard level problem related to math.,Advanced,Hard,56
+P0226,Hard Greedy Problem 226,This is a hard level problem related to greedy.,Advanced,Hard,40
+P0227,Hard Math Problem 227,This is a hard level problem related to math.,Advanced,Hard,99
+P0228,Easy Graphs Problem 228,This is a easy level problem related to graphs.,Basic,Easy,17
+P0229,Hard Math Problem 229,This is a hard level problem related to math.,Advanced,Hard,13
+P0230,Medium Data Structures Problem 230,This is a medium level problem related to data structures.,Intermediate,Medium,43
+P0231,Medium Graphs Problem 231,This is a medium level problem related to graphs.,Intermediate,Medium,65
+P0232,Hard Greedy Problem 232,This is a hard level problem related to greedy.,Advanced,Hard,51
+P0233,Medium Greedy Problem 233,This is a medium level problem related to greedy.,Intermediate,Medium,86
+P0234,Easy Math Problem 234,This is a easy level problem related to math.,Basic,Easy,51
+P0235,Hard Data Structures Problem 235,This is a hard level problem related to data structures.,Advanced,Hard,56
+P0236,Medium Greedy Problem 236,This is a medium level problem related to greedy.,Intermediate,Medium,94
+P0237,Medium Data Structures Problem 237,This is a medium level problem related to data structures.,Intermediate,Medium,69
+P0238,Hard Graphs Problem 238,This is a hard level problem related to graphs.,Advanced,Hard,33
+P0239,Easy Dynamic Programming Problem 239,This is a easy level problem related to dynamic programming.,Basic,Easy,83
+P0240,Easy Graphs Problem 240,This is a easy level problem related to graphs.,Basic,Easy,29
+P0241,Medium Algorithm Problem 241,This is a medium level problem related to algorithm.,Intermediate,Medium,80
+P0242,Easy Data Structures Problem 242,This is a easy level problem related to data structures.,Basic,Easy,91
+P0243,Medium Math Problem 243,This is a medium level problem related to math.,Intermediate,Medium,63
+P0244,Easy Math Problem 244,This is a easy level problem related to math.,Basic,Easy,29
+P0245,Easy Data Structures Problem 245,This is a easy level problem related to data structures.,Basic,Easy,75
+P0246,Medium Greedy Problem 246,This is a medium level problem related to greedy.,Intermediate,Medium,83
+P0247,Easy Algorithm Problem 247,This is a easy level problem related to algorithm.,Basic,Easy,43
+P0248,Easy Data Structures Problem 248,This is a easy level problem related to data structures.,Basic,Easy,23
+P0249,Easy Algorithm Problem 249,This is a easy level problem related to algorithm.,Basic,Easy,69
+P0250,Hard Graphs Problem 250,This is a hard level problem related to graphs.,Advanced,Hard,15
+P0251,Easy Graphs Problem 251,This is a easy level problem related to graphs.,Basic,Easy,79
+P0252,Medium Algorithm Problem 252,This is a medium level problem related to algorithm.,Intermediate,Medium,94
+P0253,Hard Dynamic Programming Problem 253,This is a hard level problem related to dynamic programming.,Advanced,Hard,69
+P0254,Hard Math Problem 254,This is a hard level problem related to math.,Advanced,Hard,36
+P0255,Hard Greedy Problem 255,This is a hard level problem related to greedy.,Advanced,Hard,23
+P0256,Medium Algorithm Problem 256,This is a medium level problem related to algorithm.,Intermediate,Medium,97
+P0257,Easy Graphs Problem 257,This is a easy level problem related to graphs.,Basic,Easy,66
+P0258,Medium Algorithm Problem 258,This is a medium level problem related to algorithm.,Intermediate,Medium,48
+P0259,Hard Algorithm Problem 259,This is a hard level problem related to algorithm.,Advanced,Hard,71
+P0260,Hard Algorithm Problem 260,This is a hard level problem related to algorithm.,Advanced,Hard,32
+P0261,Easy Algorithm Problem 261,This is a easy level problem related to algorithm.,Basic,Easy,39
+P0262,Hard Greedy Problem 262,This is a hard level problem related to greedy.,Advanced,Hard,82
+P0263,Hard Greedy Problem 263,This is a hard level problem related to greedy.,Advanced,Hard,88
+P0264,Easy Dynamic Programming Problem 264,This is a easy level problem related to dynamic programming.,Basic,Easy,13
+P0265,Easy Graphs Problem 265,This is a easy level problem related to graphs.,Basic,Easy,88
+P0266,Hard Algorithm Problem 266,This is a hard level problem related to algorithm.,Advanced,Hard,47
+P0267,Hard Dynamic Programming Problem 267,This is a hard level problem related to dynamic programming.,Advanced,Hard,78
+P0268,Medium Math Problem 268,This is a medium level problem related to math.,Intermediate,Medium,92
+P0269,Medium Greedy Problem 269,This is a medium level problem related to greedy.,Intermediate,Medium,13
+P0270,Easy Algorithm Problem 270,This is a easy level problem related to algorithm.,Basic,Easy,66
+P0271,Easy Graphs Problem 271,This is a easy level problem related to graphs.,Basic,Easy,74
+P0272,Easy Algorithm Problem 272,This is a easy level problem related to algorithm.,Basic,Easy,59
+P0273,Easy Dynamic Programming Problem 273,This is a easy level problem related to dynamic programming.,Basic,Easy,45
+P0274,Hard Graphs Problem 274,This is a hard level problem related to graphs.,Advanced,Hard,57
+P0275,Easy Greedy Problem 275,This is a easy level problem related to greedy.,Basic,Easy,39
+P0276,Easy Dynamic Programming Problem 276,This is a easy level problem related to dynamic programming.,Basic,Easy,99
+P0277,Hard Algorithm Problem 277,This is a hard level problem related to algorithm.,Advanced,Hard,13
+P0278,Hard Algorithm Problem 278,This is a hard level problem related to algorithm.,Advanced,Hard,19
+P0279,Hard Data Structures Problem 279,This is a hard level problem related to data structures.,Advanced,Hard,21
+P0280,Easy Data Structures Problem 280,This is a easy level problem related to data structures.,Basic,Easy,20
+P0281,Easy Graphs Problem 281,This is a easy level problem related to graphs.,Basic,Easy,56
+P0282,Hard Greedy Problem 282,This is a hard level problem related to greedy.,Advanced,Hard,94
+P0283,Easy Graphs Problem 283,This is a easy level problem related to graphs.,Basic,Easy,52
+P0284,Medium Data Structures Problem 284,This is a medium level problem related to data structures.,Intermediate,Medium,69
+P0285,Hard Algorithm Problem 285,This is a hard level problem related to algorithm.,Advanced,Hard,54
+P0286,Medium Dynamic Programming Problem 286,This is a medium level problem related to dynamic programming.,Intermediate,Medium,87
+P0287,Hard Data Structures Problem 287,This is a hard level problem related to data structures.,Advanced,Hard,71
+P0288,Easy Algorithm Problem 288,This is a easy level problem related to algorithm.,Basic,Easy,32
+P0289,Medium Data Structures Problem 289,This is a medium level problem related to data structures.,Intermediate,Medium,52
+P0290,Hard Graphs Problem 290,This is a hard level problem related to graphs.,Advanced,Hard,36
+P0291,Hard Math Problem 291,This is a hard level problem related to math.,Advanced,Hard,60
+P0292,Hard Algorithm Problem 292,This is a hard level problem related to algorithm.,Advanced,Hard,92
+P0293,Hard Math Problem 293,This is a hard level problem related to math.,Advanced,Hard,20
+P0294,Hard Greedy Problem 294,This is a hard level problem related to greedy.,Advanced,Hard,93
+P0295,Easy Dynamic Programming Problem 295,This is a easy level problem related to dynamic programming.,Basic,Easy,39
+P0296,Hard Dynamic Programming Problem 296,This is a hard level problem related to dynamic programming.,Advanced,Hard,13
+P0297,Medium Greedy Problem 297,This is a medium level problem related to greedy.,Intermediate,Medium,65
+P0298,Medium Greedy Problem 298,This is a medium level problem related to greedy.,Intermediate,Medium,90
+P0299,Medium Graphs Problem 299,This is a medium level problem related to graphs.,Intermediate,Medium,34
+P0300,Hard Greedy Problem 300,This is a hard level problem related to greedy.,Advanced,Hard,69
+P0301,Easy Graphs Problem 301,This is a easy level problem related to graphs.,Basic,Easy,30
+P0302,Hard Dynamic Programming Problem 302,This is a hard level problem related to dynamic programming.,Advanced,Hard,44
+P0303,Hard Math Problem 303,This is a hard level problem related to math.,Advanced,Hard,66
+P0304,Medium Data Structures Problem 304,This is a medium level problem related to data structures.,Intermediate,Medium,49
+P0305,Easy Graphs Problem 305,This is a easy level problem related to graphs.,Basic,Easy,19
+P0306,Hard Graphs Problem 306,This is a hard level problem related to graphs.,Advanced,Hard,46
+P0307,Hard Greedy Problem 307,This is a hard level problem related to greedy.,Advanced,Hard,70
+P0308,Easy Math Problem 308,This is a easy level problem related to math.,Basic,Easy,40
+P0309,Easy Data Structures Problem 309,This is a easy level problem related to data structures.,Basic,Easy,86
+P0310,Hard Data Structures Problem 310,This is a hard level problem related to data structures.,Advanced,Hard,23
+P0311,Easy Data Structures Problem 311,This is a easy level problem related to data structures.,Basic,Easy,40
+P0312,Easy Graphs Problem 312,This is a easy level problem related to graphs.,Basic,Easy,93
+P0313,Easy Algorithm Problem 313,This is a easy level problem related to algorithm.,Basic,Easy,73
+P0314,Easy Dynamic Programming Problem 314,This is a easy level problem related to dynamic programming.,Basic,Easy,95
+P0315,Easy Math Problem 315,This is a easy level problem related to math.,Basic,Easy,81
+P0316,Hard Data Structures Problem 316,This is a hard level problem related to data structures.,Advanced,Hard,48
+P0317,Easy Graphs Problem 317,This is a easy level problem related to graphs.,Basic,Easy,15
+P0318,Easy Data Structures Problem 318,This is a easy level problem related to data structures.,Basic,Easy,88
+P0319,Easy Graphs Problem 319,This is a easy level problem related to graphs.,Basic,Easy,64
+P0320,Medium Greedy Problem 320,This is a medium level problem related to greedy.,Intermediate,Medium,23
+P0321,Hard Greedy Problem 321,This is a hard level problem related to greedy.,Advanced,Hard,86
+P0322,Medium Data Structures Problem 322,This is a medium level problem related to data structures.,Intermediate,Medium,75
+P0323,Medium Math Problem 323,This is a medium level problem related to math.,Intermediate,Medium,46
+P0324,Medium Greedy Problem 324,This is a medium level problem related to greedy.,Intermediate,Medium,87
+P0325,Medium Math Problem 325,This is a medium level problem related to math.,Intermediate,Medium,89
+P0326,Hard Math Problem 326,This is a hard level problem related to math.,Advanced,Hard,23
+P0327,Medium Algorithm Problem 327,This is a medium level problem related to algorithm.,Intermediate,Medium,87
+P0328,Hard Dynamic Programming Problem 328,This is a hard level problem related to dynamic programming.,Advanced,Hard,83
+P0329,Hard Math Problem 329,This is a hard level problem related to math.,Advanced,Hard,46
+P0330,Easy Graphs Problem 330,This is a easy level problem related to graphs.,Basic,Easy,70
+P0331,Medium Data Structures Problem 331,This is a medium level problem related to data structures.,Intermediate,Medium,85
+P0332,Hard Math Problem 332,This is a hard level problem related to math.,Advanced,Hard,77
+P0333,Hard Math Problem 333,This is a hard level problem related to math.,Advanced,Hard,16
+P0334,Medium Data Structures Problem 334,This is a medium level problem related to data structures.,Intermediate,Medium,27
+P0335,Easy Math Problem 335,This is a easy level problem related to math.,Basic,Easy,36
+P0336,Easy Data Structures Problem 336,This is a easy level problem related to data structures.,Basic,Easy,37
+P0337,Medium Graphs Problem 337,This is a medium level problem related to graphs.,Intermediate,Medium,40
+P0338,Easy Data Structures Problem 338,This is a easy level problem related to data structures.,Basic,Easy,35
+P0339,Medium Algorithm Problem 339,This is a medium level problem related to algorithm.,Intermediate,Medium,92
+P0340,Medium Algorithm Problem 340,This is a medium level problem related to algorithm.,Intermediate,Medium,98
+P0341,Easy Algorithm Problem 341,This is a easy level problem related to algorithm.,Basic,Easy,42
+P0342,Easy Data Structures Problem 342,This is a easy level problem related to data structures.,Basic,Easy,30
+P0343,Hard Math Problem 343,This is a hard level problem related to math.,Advanced,Hard,83
+P0344,Medium Greedy Problem 344,This is a medium level problem related to greedy.,Intermediate,Medium,52
+P0345,Medium Greedy Problem 345,This is a medium level problem related to greedy.,Intermediate,Medium,52
+P0346,Hard Math Problem 346,This is a hard level problem related to math.,Advanced,Hard,15
+P0347,Medium Algorithm Problem 347,This is a medium level problem related to algorithm.,Intermediate,Medium,23
+P0348,Medium Math Problem 348,This is a medium level problem related to math.,Intermediate,Medium,87
+P0349,Hard Greedy Problem 349,This is a hard level problem related to greedy.,Advanced,Hard,19
+P0350,Hard Greedy Problem 350,This is a hard level problem related to greedy.,Advanced,Hard,92
+P0351,Hard Math Problem 351,This is a hard level problem related to math.,Advanced,Hard,90
+P0352,Medium Graphs Problem 352,This is a medium level problem related to graphs.,Intermediate,Medium,35
+P0353,Easy Algorithm Problem 353,This is a easy level problem related to algorithm.,Basic,Easy,56
+P0354,Hard Greedy Problem 354,This is a hard level problem related to greedy.,Advanced,Hard,57
+P0355,Easy Greedy Problem 355,This is a easy level problem related to greedy.,Basic,Easy,38
+P0356,Medium Data Structures Problem 356,This is a medium level problem related to data structures.,Intermediate,Medium,54
+P0357,Easy Math Problem 357,This is a easy level problem related to math.,Basic,Easy,60
+P0358,Medium Data Structures Problem 358,This is a medium level problem related to data structures.,Intermediate,Medium,40
+P0359,Hard Graphs Problem 359,This is a hard level problem related to graphs.,Advanced,Hard,49
+P0360,Easy Dynamic Programming Problem 360,This is a easy level problem related to dynamic programming.,Basic,Easy,51
+P0361,Easy Data Structures Problem 361,This is a easy level problem related to data structures.,Basic,Easy,61
+P0362,Easy Algorithm Problem 362,This is a easy level problem related to algorithm.,Basic,Easy,40
+P0363,Hard Dynamic Programming Problem 363,This is a hard level problem related to dynamic programming.,Advanced,Hard,44
+P0364,Medium Math Problem 364,This is a medium level problem related to math.,Intermediate,Medium,78
+P0365,Hard Math Problem 365,This is a hard level problem related to math.,Advanced,Hard,59
+P0366,Medium Graphs Problem 366,This is a medium level problem related to graphs.,Intermediate,Medium,51
+P0367,Medium Algorithm Problem 367,This is a medium level problem related to algorithm.,Intermediate,Medium,63
+P0368,Easy Dynamic Programming Problem 368,This is a easy level problem related to dynamic programming.,Basic,Easy,28
+P0369,Hard Graphs Problem 369,This is a hard level problem related to graphs.,Advanced,Hard,82
+P0370,Medium Algorithm Problem 370,This is a medium level problem related to algorithm.,Intermediate,Medium,24
+P0371,Medium Data Structures Problem 371,This is a medium level problem related to data structures.,Intermediate,Medium,59
+P0372,Easy Data Structures Problem 372,This is a easy level problem related to data structures.,Basic,Easy,97
+P0373,Easy Dynamic Programming Problem 373,This is a easy level problem related to dynamic programming.,Basic,Easy,83
+P0374,Easy Data Structures Problem 374,This is a easy level problem related to data structures.,Basic,Easy,44
+P0375,Medium Algorithm Problem 375,This is a medium level problem related to algorithm.,Intermediate,Medium,80
+P0376,Hard Graphs Problem 376,This is a hard level problem related to graphs.,Advanced,Hard,49
+P0377,Hard Algorithm Problem 377,This is a hard level problem related to algorithm.,Advanced,Hard,99
+P0378,Hard Algorithm Problem 378,This is a hard level problem related to algorithm.,Advanced,Hard,54
+P0379,Easy Math Problem 379,This is a easy level problem related to math.,Basic,Easy,18
+P0380,Hard Math Problem 380,This is a hard level problem related to math.,Advanced,Hard,58
+P0381,Hard Dynamic Programming Problem 381,This is a hard level problem related to dynamic programming.,Advanced,Hard,49
+P0382,Easy Graphs Problem 382,This is a easy level problem related to graphs.,Basic,Easy,62
+P0383,Easy Math Problem 383,This is a easy level problem related to math.,Basic,Easy,21
+P0384,Hard Dynamic Programming Problem 384,This is a hard level problem related to dynamic programming.,Advanced,Hard,41
+P0385,Medium Greedy Problem 385,This is a medium level problem related to greedy.,Intermediate,Medium,77
+P0386,Medium Greedy Problem 386,This is a medium level problem related to greedy.,Intermediate,Medium,48
+P0387,Hard Math Problem 387,This is a hard level problem related to math.,Advanced,Hard,65
+P0388,Easy Dynamic Programming Problem 388,This is a easy level problem related to dynamic programming.,Basic,Easy,47
+P0389,Easy Algorithm Problem 389,This is a easy level problem related to algorithm.,Basic,Easy,13
+P0390,Medium Dynamic Programming Problem 390,This is a medium level problem related to dynamic programming.,Intermediate,Medium,72
+P0391,Easy Data Structures Problem 391,This is a easy level problem related to data structures.,Basic,Easy,43
+P0392,Medium Algorithm Problem 392,This is a medium level problem related to algorithm.,Intermediate,Medium,99
+P0393,Easy Greedy Problem 393,This is a easy level problem related to greedy.,Basic,Easy,100
+P0394,Hard Greedy Problem 394,This is a hard level problem related to greedy.,Advanced,Hard,100
+P0395,Hard Math Problem 395,This is a hard level problem related to math.,Advanced,Hard,21
+P0396,Hard Graphs Problem 396,This is a hard level problem related to graphs.,Advanced,Hard,60
+P0397,Hard Graphs Problem 397,This is a hard level problem related to graphs.,Advanced,Hard,65
+P0398,Easy Math Problem 398,This is a easy level problem related to math.,Basic,Easy,91
+P0399,Easy Algorithm Problem 399,This is a easy level problem related to algorithm.,Basic,Easy,92
+P0400,Hard Graphs Problem 400,This is a hard level problem related to graphs.,Advanced,Hard,72
+P0401,Easy Math Problem 401,This is a easy level problem related to math.,Basic,Easy,66
+P0402,Easy Math Problem 402,This is a easy level problem related to math.,Basic,Easy,61
+P0403,Easy Greedy Problem 403,This is a easy level problem related to greedy.,Basic,Easy,100
+P0404,Easy Data Structures Problem 404,This is a easy level problem related to data structures.,Basic,Easy,96
+P0405,Medium Math Problem 405,This is a medium level problem related to math.,Intermediate,Medium,76
+P0406,Hard Greedy Problem 406,This is a hard level problem related to greedy.,Advanced,Hard,40
+P0407,Hard Algorithm Problem 407,This is a hard level problem related to algorithm.,Advanced,Hard,42
+P0408,Hard Dynamic Programming Problem 408,This is a hard level problem related to dynamic programming.,Advanced,Hard,10
+P0409,Easy Graphs Problem 409,This is a easy level problem related to graphs.,Basic,Easy,32
+P0410,Hard Dynamic Programming Problem 410,This is a hard level problem related to dynamic programming.,Advanced,Hard,89
+P0411,Easy Dynamic Programming Problem 411,This is a easy level problem related to dynamic programming.,Basic,Easy,19
+P0412,Medium Greedy Problem 412,This is a medium level problem related to greedy.,Intermediate,Medium,76
+P0413,Medium Math Problem 413,This is a medium level problem related to math.,Intermediate,Medium,13
+P0414,Easy Math Problem 414,This is a easy level problem related to math.,Basic,Easy,32
+P0415,Easy Data Structures Problem 415,This is a easy level problem related to data structures.,Basic,Easy,82
+P0416,Hard Graphs Problem 416,This is a hard level problem related to graphs.,Advanced,Hard,62
+P0417,Medium Data Structures Problem 417,This is a medium level problem related to data structures.,Intermediate,Medium,81
+P0418,Hard Algorithm Problem 418,This is a hard level problem related to algorithm.,Advanced,Hard,79
+P0419,Hard Data Structures Problem 419,This is a hard level problem related to data structures.,Advanced,Hard,30
+P0420,Medium Greedy Problem 420,This is a medium level problem related to greedy.,Intermediate,Medium,35
+P0421,Easy Math Problem 421,This is a easy level problem related to math.,Basic,Easy,67
+P0422,Medium Graphs Problem 422,This is a medium level problem related to graphs.,Intermediate,Medium,91
+P0423,Easy Math Problem 423,This is a easy level problem related to math.,Basic,Easy,67
+P0424,Hard Dynamic Programming Problem 424,This is a hard level problem related to dynamic programming.,Advanced,Hard,66
+P0425,Medium Algorithm Problem 425,This is a medium level problem related to algorithm.,Intermediate,Medium,57
+P0426,Hard Math Problem 426,This is a hard level problem related to math.,Advanced,Hard,97
+P0427,Medium Graphs Problem 427,This is a medium level problem related to graphs.,Intermediate,Medium,65
+P0428,Easy Dynamic Programming Problem 428,This is a easy level problem related to dynamic programming.,Basic,Easy,71
+P0429,Easy Data Structures Problem 429,This is a easy level problem related to data structures.,Basic,Easy,70
+P0430,Hard Data Structures Problem 430,This is a hard level problem related to data structures.,Advanced,Hard,48
+P0431,Hard Graphs Problem 431,This is a hard level problem related to graphs.,Advanced,Hard,40
+P0432,Hard Data Structures Problem 432,This is a hard level problem related to data structures.,Advanced,Hard,73
+P0433,Medium Greedy Problem 433,This is a medium level problem related to greedy.,Intermediate,Medium,60
+P0434,Easy Data Structures Problem 434,This is a easy level problem related to data structures.,Basic,Easy,20
+P0435,Easy Math Problem 435,This is a easy level problem related to math.,Basic,Easy,87
+P0436,Hard Dynamic Programming Problem 436,This is a hard level problem related to dynamic programming.,Advanced,Hard,48
+P0437,Easy Graphs Problem 437,This is a easy level problem related to graphs.,Basic,Easy,32
+P0438,Easy Math Problem 438,This is a easy level problem related to math.,Basic,Easy,60
+P0439,Hard Data Structures Problem 439,This is a hard level problem related to data structures.,Advanced,Hard,24
+P0440,Easy Algorithm Problem 440,This is a easy level problem related to algorithm.,Basic,Easy,27
+P0441,Medium Math Problem 441,This is a medium level problem related to math.,Intermediate,Medium,69
+P0442,Easy Math Problem 442,This is a easy level problem related to math.,Basic,Easy,54
+P0443,Easy Graphs Problem 443,This is a easy level problem related to graphs.,Basic,Easy,15
+P0444,Medium Graphs Problem 444,This is a medium level problem related to graphs.,Intermediate,Medium,95
+P0445,Easy Data Structures Problem 445,This is a easy level problem related to data structures.,Basic,Easy,74
+P0446,Medium Data Structures Problem 446,This is a medium level problem related to data structures.,Intermediate,Medium,18
+P0447,Easy Dynamic Programming Problem 447,This is a easy level problem related to dynamic programming.,Basic,Easy,13
+P0448,Hard Dynamic Programming Problem 448,This is a hard level problem related to dynamic programming.,Advanced,Hard,37
+P0449,Medium Algorithm Problem 449,This is a medium level problem related to algorithm.,Intermediate,Medium,51
+P0450,Easy Dynamic Programming Problem 450,This is a easy level problem related to dynamic programming.,Basic,Easy,44
+P0451,Medium Greedy Problem 451,This is a medium level problem related to greedy.,Intermediate,Medium,63
+P0452,Medium Dynamic Programming Problem 452,This is a medium level problem related to dynamic programming.,Intermediate,Medium,16
+P0453,Easy Math Problem 453,This is a easy level problem related to math.,Basic,Easy,71
+P0454,Medium Dynamic Programming Problem 454,This is a medium level problem related to dynamic programming.,Intermediate,Medium,60
+P0455,Hard Algorithm Problem 455,This is a hard level problem related to algorithm.,Advanced,Hard,13
+P0456,Easy Graphs Problem 456,This is a easy level problem related to graphs.,Basic,Easy,84
+P0457,Hard Graphs Problem 457,This is a hard level problem related to graphs.,Advanced,Hard,91
+P0458,Easy Algorithm Problem 458,This is a easy level problem related to algorithm.,Basic,Easy,24
+P0459,Easy Data Structures Problem 459,This is a easy level problem related to data structures.,Basic,Easy,41
+P0460,Medium Data Structures Problem 460,This is a medium level problem related to data structures.,Intermediate,Medium,85
+P0461,Hard Dynamic Programming Problem 461,This is a hard level problem related to dynamic programming.,Advanced,Hard,11
+P0462,Easy Algorithm Problem 462,This is a easy level problem related to algorithm.,Basic,Easy,71
+P0463,Hard Math Problem 463,This is a hard level problem related to math.,Advanced,Hard,50
+P0464,Hard Greedy Problem 464,This is a hard level problem related to greedy.,Advanced,Hard,38
+P0465,Hard Greedy Problem 465,This is a hard level problem related to greedy.,Advanced,Hard,88
+P0466,Hard Algorithm Problem 466,This is a hard level problem related to algorithm.,Advanced,Hard,85
+P0467,Easy Data Structures Problem 467,This is a easy level problem related to data structures.,Basic,Easy,37
+P0468,Easy Greedy Problem 468,This is a easy level problem related to greedy.,Basic,Easy,47
+P0469,Easy Greedy Problem 469,This is a easy level problem related to greedy.,Basic,Easy,42
+P0470,Easy Math Problem 470,This is a easy level problem related to math.,Basic,Easy,80
+P0471,Hard Greedy Problem 471,This is a hard level problem related to greedy.,Advanced,Hard,28
+P0472,Easy Graphs Problem 472,This is a easy level problem related to graphs.,Basic,Easy,53
+P0473,Hard Dynamic Programming Problem 473,This is a hard level problem related to dynamic programming.,Advanced,Hard,84
+P0474,Easy Math Problem 474,This is a easy level problem related to math.,Basic,Easy,67
+P0475,Medium Dynamic Programming Problem 475,This is a medium level problem related to dynamic programming.,Intermediate,Medium,88
+P0476,Medium Dynamic Programming Problem 476,This is a medium level problem related to dynamic programming.,Intermediate,Medium,34
+P0477,Medium Data Structures Problem 477,This is a medium level problem related to data structures.,Intermediate,Medium,49
+P0478,Easy Algorithm Problem 478,This is a easy level problem related to algorithm.,Basic,Easy,58
+P0479,Easy Data Structures Problem 479,This is a easy level problem related to data structures.,Basic,Easy,18
+P0480,Medium Greedy Problem 480,This is a medium level problem related to greedy.,Intermediate,Medium,49
+P0481,Medium Data Structures Problem 481,This is a medium level problem related to data structures.,Intermediate,Medium,71
+P0482,Medium Math Problem 482,This is a medium level problem related to math.,Intermediate,Medium,18
+P0483,Hard Graphs Problem 483,This is a hard level problem related to graphs.,Advanced,Hard,99
+P0484,Hard Algorithm Problem 484,This is a hard level problem related to algorithm.,Advanced,Hard,60
+P0485,Medium Greedy Problem 485,This is a medium level problem related to greedy.,Intermediate,Medium,36
+P0486,Hard Dynamic Programming Problem 486,This is a hard level problem related to dynamic programming.,Advanced,Hard,71
+P0487,Hard Algorithm Problem 487,This is a hard level problem related to algorithm.,Advanced,Hard,87
+P0488,Medium Math Problem 488,This is a medium level problem related to math.,Intermediate,Medium,37
+P0489,Medium Data Structures Problem 489,This is a medium level problem related to data structures.,Intermediate,Medium,36
+P0490,Easy Algorithm Problem 490,This is a easy level problem related to algorithm.,Basic,Easy,18
+P0491,Hard Data Structures Problem 491,This is a hard level problem related to data structures.,Advanced,Hard,47
+P0492,Medium Algorithm Problem 492,This is a medium level problem related to algorithm.,Intermediate,Medium,33
+P0493,Hard Greedy Problem 493,This is a hard level problem related to greedy.,Advanced,Hard,68
+P0494,Medium Math Problem 494,This is a medium level problem related to math.,Intermediate,Medium,19
+P0495,Hard Graphs Problem 495,This is a hard level problem related to graphs.,Advanced,Hard,54
+P0496,Hard Greedy Problem 496,This is a hard level problem related to greedy.,Advanced,Hard,69
+P0497,Medium Dynamic Programming Problem 497,This is a medium level problem related to dynamic programming.,Intermediate,Medium,17
+P0498,Easy Dynamic Programming Problem 498,This is a easy level problem related to dynamic programming.,Basic,Easy,55
+P0499,Medium Math Problem 499,This is a medium level problem related to math.,Intermediate,Medium,34
+P0500,Easy Algorithm Problem 500,This is a easy level problem related to algorithm.,Basic,Easy,36
+P0501,Easy Algorithm Problem 501,This is a easy level problem related to algorithm.,Basic,Easy,36
+P0502,Easy Graphs Problem 502,This is a easy level problem related to graphs.,Basic,Easy,33
+P0503,Medium Math Problem 503,This is a medium level problem related to math.,Intermediate,Medium,99
+P0504,Easy Graphs Problem 504,This is a easy level problem related to graphs.,Basic,Easy,66
+P0505,Hard Dynamic Programming Problem 505,This is a hard level problem related to dynamic programming.,Advanced,Hard,14
+P0506,Hard Math Problem 506,This is a hard level problem related to math.,Advanced,Hard,70
+P0507,Easy Graphs Problem 507,This is a easy level problem related to graphs.,Basic,Easy,69
+P0508,Medium Data Structures Problem 508,This is a medium level problem related to data structures.,Intermediate,Medium,91
+P0509,Medium Algorithm Problem 509,This is a medium level problem related to algorithm.,Intermediate,Medium,93
+P0510,Easy Graphs Problem 510,This is a easy level problem related to graphs.,Basic,Easy,16
+P0511,Hard Dynamic Programming Problem 511,This is a hard level problem related to dynamic programming.,Advanced,Hard,96
+P0512,Easy Math Problem 512,This is a easy level problem related to math.,Basic,Easy,42
+P0513,Easy Algorithm Problem 513,This is a easy level problem related to algorithm.,Basic,Easy,98
+P0514,Hard Dynamic Programming Problem 514,This is a hard level problem related to dynamic programming.,Advanced,Hard,90
+P0515,Easy Dynamic Programming Problem 515,This is a easy level problem related to dynamic programming.,Basic,Easy,68
+P0516,Medium Algorithm Problem 516,This is a medium level problem related to algorithm.,Intermediate,Medium,48
+P0517,Easy Algorithm Problem 517,This is a easy level problem related to algorithm.,Basic,Easy,98
+P0518,Hard Math Problem 518,This is a hard level problem related to math.,Advanced,Hard,20
+P0519,Medium Dynamic Programming Problem 519,This is a medium level problem related to dynamic programming.,Intermediate,Medium,68
+P0520,Easy Greedy Problem 520,This is a easy level problem related to greedy.,Basic,Easy,19
+P0521,Hard Graphs Problem 521,This is a hard level problem related to graphs.,Advanced,Hard,28
+P0522,Easy Dynamic Programming Problem 522,This is a easy level problem related to dynamic programming.,Basic,Easy,12
+P0523,Hard Data Structures Problem 523,This is a hard level problem related to data structures.,Advanced,Hard,56
+P0524,Hard Dynamic Programming Problem 524,This is a hard level problem related to dynamic programming.,Advanced,Hard,29
+P0525,Easy Data Structures Problem 525,This is a easy level problem related to data structures.,Basic,Easy,34
+P0526,Easy Graphs Problem 526,This is a easy level problem related to graphs.,Basic,Easy,31
+P0527,Easy Algorithm Problem 527,This is a easy level problem related to algorithm.,Basic,Easy,45
+P0528,Hard Data Structures Problem 528,This is a hard level problem related to data structures.,Advanced,Hard,27
+P0529,Hard Math Problem 529,This is a hard level problem related to math.,Advanced,Hard,91
+P0530,Hard Dynamic Programming Problem 530,This is a hard level problem related to dynamic programming.,Advanced,Hard,99
+P0531,Medium Algorithm Problem 531,This is a medium level problem related to algorithm.,Intermediate,Medium,33
+P0532,Medium Dynamic Programming Problem 532,This is a medium level problem related to dynamic programming.,Intermediate,Medium,75
+P0533,Hard Dynamic Programming Problem 533,This is a hard level problem related to dynamic programming.,Advanced,Hard,76
+P0534,Medium Math Problem 534,This is a medium level problem related to math.,Intermediate,Medium,29
+P0535,Easy Data Structures Problem 535,This is a easy level problem related to data structures.,Basic,Easy,23
+P0536,Easy Math Problem 536,This is a easy level problem related to math.,Basic,Easy,17
+P0537,Hard Graphs Problem 537,This is a hard level problem related to graphs.,Advanced,Hard,32
+P0538,Easy Greedy Problem 538,This is a easy level problem related to greedy.,Basic,Easy,99
+P0539,Easy Math Problem 539,This is a easy level problem related to math.,Basic,Easy,71
+P0540,Hard Greedy Problem 540,This is a hard level problem related to greedy.,Advanced,Hard,89
+P0541,Hard Algorithm Problem 541,This is a hard level problem related to algorithm.,Advanced,Hard,84
+P0542,Hard Math Problem 542,This is a hard level problem related to math.,Advanced,Hard,50
+P0543,Easy Graphs Problem 543,This is a easy level problem related to graphs.,Basic,Easy,95
+P0544,Medium Math Problem 544,This is a medium level problem related to math.,Intermediate,Medium,91
+P0545,Hard Algorithm Problem 545,This is a hard level problem related to algorithm.,Advanced,Hard,92
+P0546,Medium Data Structures Problem 546,This is a medium level problem related to data structures.,Intermediate,Medium,88
+P0547,Easy Data Structures Problem 547,This is a easy level problem related to data structures.,Basic,Easy,59
+P0548,Hard Dynamic Programming Problem 548,This is a hard level problem related to dynamic programming.,Advanced,Hard,64
+P0549,Hard Math Problem 549,This is a hard level problem related to math.,Advanced,Hard,94
+P0550,Easy Data Structures Problem 550,This is a easy level problem related to data structures.,Basic,Easy,43
+P0551,Medium Graphs Problem 551,This is a medium level problem related to graphs.,Intermediate,Medium,46
+P0552,Easy Dynamic Programming Problem 552,This is a easy level problem related to dynamic programming.,Basic,Easy,19
+P0553,Medium Math Problem 553,This is a medium level problem related to math.,Intermediate,Medium,68
+P0554,Medium Graphs Problem 554,This is a medium level problem related to graphs.,Intermediate,Medium,27
+P0555,Easy Greedy Problem 555,This is a easy level problem related to greedy.,Basic,Easy,30
+P0556,Hard Greedy Problem 556,This is a hard level problem related to greedy.,Advanced,Hard,65
+P0557,Easy Data Structures Problem 557,This is a easy level problem related to data structures.,Basic,Easy,12
+P0558,Medium Algorithm Problem 558,This is a medium level problem related to algorithm.,Intermediate,Medium,20
+P0559,Medium Algorithm Problem 559,This is a medium level problem related to algorithm.,Intermediate,Medium,54
+P0560,Easy Math Problem 560,This is a easy level problem related to math.,Basic,Easy,74
+P0561,Hard Greedy Problem 561,This is a hard level problem related to greedy.,Advanced,Hard,59
+P0562,Easy Graphs Problem 562,This is a easy level problem related to graphs.,Basic,Easy,63
+P0563,Medium Data Structures Problem 563,This is a medium level problem related to data structures.,Intermediate,Medium,45
+P0564,Hard Graphs Problem 564,This is a hard level problem related to graphs.,Advanced,Hard,44
+P0565,Easy Data Structures Problem 565,This is a easy level problem related to data structures.,Basic,Easy,49
+P0566,Hard Dynamic Programming Problem 566,This is a hard level problem related to dynamic programming.,Advanced,Hard,10
+P0567,Hard Dynamic Programming Problem 567,This is a hard level problem related to dynamic programming.,Advanced,Hard,19
+P0568,Hard Math Problem 568,This is a hard level problem related to math.,Advanced,Hard,14
+P0569,Medium Graphs Problem 569,This is a medium level problem related to graphs.,Intermediate,Medium,79
+P0570,Easy Dynamic Programming Problem 570,This is a easy level problem related to dynamic programming.,Basic,Easy,21
+P0571,Medium Math Problem 571,This is a medium level problem related to math.,Intermediate,Medium,56
+P0572,Medium Math Problem 572,This is a medium level problem related to math.,Intermediate,Medium,98
+P0573,Medium Data Structures Problem 573,This is a medium level problem related to data structures.,Intermediate,Medium,27
+P0574,Medium Math Problem 574,This is a medium level problem related to math.,Intermediate,Medium,98
+P0575,Easy Algorithm Problem 575,This is a easy level problem related to algorithm.,Basic,Easy,91
+P0576,Easy Graphs Problem 576,This is a easy level problem related to graphs.,Basic,Easy,53
+P0577,Medium Data Structures Problem 577,This is a medium level problem related to data structures.,Intermediate,Medium,22
+P0578,Hard Data Structures Problem 578,This is a hard level problem related to data structures.,Advanced,Hard,18
+P0579,Easy Math Problem 579,This is a easy level problem related to math.,Basic,Easy,38
+P0580,Hard Data Structures Problem 580,This is a hard level problem related to data structures.,Advanced,Hard,54
+P0581,Hard Data Structures Problem 581,This is a hard level problem related to data structures.,Advanced,Hard,53
+P0582,Medium Data Structures Problem 582,This is a medium level problem related to data structures.,Intermediate,Medium,16
+P0583,Easy Data Structures Problem 583,This is a easy level problem related to data structures.,Basic,Easy,44
+P0584,Medium Dynamic Programming Problem 584,This is a medium level problem related to dynamic programming.,Intermediate,Medium,52
+P0585,Easy Greedy Problem 585,This is a easy level problem related to greedy.,Basic,Easy,52
+P0586,Hard Greedy Problem 586,This is a hard level problem related to greedy.,Advanced,Hard,52
+P0587,Easy Algorithm Problem 587,This is a easy level problem related to algorithm.,Basic,Easy,37
+P0588,Easy Math Problem 588,This is a easy level problem related to math.,Basic,Easy,80
+P0589,Hard Data Structures Problem 589,This is a hard level problem related to data structures.,Advanced,Hard,41
+P0590,Medium Data Structures Problem 590,This is a medium level problem related to data structures.,Intermediate,Medium,83
+P0591,Hard Math Problem 591,This is a hard level problem related to math.,Advanced,Hard,28
+P0592,Easy Graphs Problem 592,This is a easy level problem related to graphs.,Basic,Easy,74
+P0593,Easy Dynamic Programming Problem 593,This is a easy level problem related to dynamic programming.,Basic,Easy,12
+P0594,Medium Dynamic Programming Problem 594,This is a medium level problem related to dynamic programming.,Intermediate,Medium,79
+P0595,Easy Algorithm Problem 595,This is a easy level problem related to algorithm.,Basic,Easy,29
+P0596,Hard Math Problem 596,This is a hard level problem related to math.,Advanced,Hard,68
+P0597,Medium Math Problem 597,This is a medium level problem related to math.,Intermediate,Medium,24
+P0598,Easy Greedy Problem 598,This is a easy level problem related to greedy.,Basic,Easy,71
+P0599,Easy Math Problem 599,This is a easy level problem related to math.,Basic,Easy,24
+P0600,Medium Data Structures Problem 600,This is a medium level problem related to data structures.,Intermediate,Medium,34
+P0601,Medium Data Structures Problem 601,This is a medium level problem related to data structures.,Intermediate,Medium,10
+P0602,Medium Data Structures Problem 602,This is a medium level problem related to data structures.,Intermediate,Medium,96
+P0603,Hard Greedy Problem 603,This is a hard level problem related to greedy.,Advanced,Hard,10
+P0604,Easy Math Problem 604,This is a easy level problem related to math.,Basic,Easy,83
+P0605,Easy Algorithm Problem 605,This is a easy level problem related to algorithm.,Basic,Easy,34
+P0606,Medium Math Problem 606,This is a medium level problem related to math.,Intermediate,Medium,77
+P0607,Hard Algorithm Problem 607,This is a hard level problem related to algorithm.,Advanced,Hard,33
+P0608,Easy Dynamic Programming Problem 608,This is a easy level problem related to dynamic programming.,Basic,Easy,84
+P0609,Easy Dynamic Programming Problem 609,This is a easy level problem related to dynamic programming.,Basic,Easy,47
+P0610,Medium Algorithm Problem 610,This is a medium level problem related to algorithm.,Intermediate,Medium,49
+P0611,Easy Greedy Problem 611,This is a easy level problem related to greedy.,Basic,Easy,43
+P0612,Easy Algorithm Problem 612,This is a easy level problem related to algorithm.,Basic,Easy,40
+P0613,Medium Algorithm Problem 613,This is a medium level problem related to algorithm.,Intermediate,Medium,89
+P0614,Medium Data Structures Problem 614,This is a medium level problem related to data structures.,Intermediate,Medium,93
+P0615,Easy Math Problem 615,This is a easy level problem related to math.,Basic,Easy,11
+P0616,Easy Greedy Problem 616,This is a easy level problem related to greedy.,Basic,Easy,72
+P0617,Easy Math Problem 617,This is a easy level problem related to math.,Basic,Easy,29
+P0618,Easy Dynamic Programming Problem 618,This is a easy level problem related to dynamic programming.,Basic,Easy,95
+P0619,Medium Greedy Problem 619,This is a medium level problem related to greedy.,Intermediate,Medium,24
+P0620,Hard Math Problem 620,This is a hard level problem related to math.,Advanced,Hard,87
+P0621,Hard Math Problem 621,This is a hard level problem related to math.,Advanced,Hard,37
+P0622,Medium Math Problem 622,This is a medium level problem related to math.,Intermediate,Medium,93
+P0623,Easy Math Problem 623,This is a easy level problem related to math.,Basic,Easy,16
+P0624,Medium Math Problem 624,This is a medium level problem related to math.,Intermediate,Medium,35
+P0625,Hard Math Problem 625,This is a hard level problem related to math.,Advanced,Hard,43
+P0626,Medium Greedy Problem 626,This is a medium level problem related to greedy.,Intermediate,Medium,18
+P0627,Medium Greedy Problem 627,This is a medium level problem related to greedy.,Intermediate,Medium,62
+P0628,Hard Math Problem 628,This is a hard level problem related to math.,Advanced,Hard,24
+P0629,Hard Data Structures Problem 629,This is a hard level problem related to data structures.,Advanced,Hard,100
+P0630,Easy Graphs Problem 630,This is a easy level problem related to graphs.,Basic,Easy,43
+P0631,Medium Dynamic Programming Problem 631,This is a medium level problem related to dynamic programming.,Intermediate,Medium,99
+P0632,Medium Greedy Problem 632,This is a medium level problem related to greedy.,Intermediate,Medium,60
+P0633,Easy Dynamic Programming Problem 633,This is a easy level problem related to dynamic programming.,Basic,Easy,18
+P0634,Easy Math Problem 634,This is a easy level problem related to math.,Basic,Easy,76
+P0635,Hard Data Structures Problem 635,This is a hard level problem related to data structures.,Advanced,Hard,65
+P0636,Easy Math Problem 636,This is a easy level problem related to math.,Basic,Easy,70
+P0637,Hard Greedy Problem 637,This is a hard level problem related to greedy.,Advanced,Hard,85
+P0638,Easy Math Problem 638,This is a easy level problem related to math.,Basic,Easy,72
+P0639,Easy Greedy Problem 639,This is a easy level problem related to greedy.,Basic,Easy,20
+P0640,Medium Algorithm Problem 640,This is a medium level problem related to algorithm.,Intermediate,Medium,87
+P0641,Easy Math Problem 641,This is a easy level problem related to math.,Basic,Easy,46
+P0642,Hard Algorithm Problem 642,This is a hard level problem related to algorithm.,Advanced,Hard,43
+P0643,Medium Dynamic Programming Problem 643,This is a medium level problem related to dynamic programming.,Intermediate,Medium,72
+P0644,Medium Dynamic Programming Problem 644,This is a medium level problem related to dynamic programming.,Intermediate,Medium,25
+P0645,Easy Dynamic Programming Problem 645,This is a easy level problem related to dynamic programming.,Basic,Easy,37
+P0646,Hard Algorithm Problem 646,This is a hard level problem related to algorithm.,Advanced,Hard,65
+P0647,Easy Graphs Problem 647,This is a easy level problem related to graphs.,Basic,Easy,29
+P0648,Easy Data Structures Problem 648,This is a easy level problem related to data structures.,Basic,Easy,91
+P0649,Hard Data Structures Problem 649,This is a hard level problem related to data structures.,Advanced,Hard,89
+P0650,Easy Graphs Problem 650,This is a easy level problem related to graphs.,Basic,Easy,95
+P0651,Medium Data Structures Problem 651,This is a medium level problem related to data structures.,Intermediate,Medium,86
+P0652,Hard Graphs Problem 652,This is a hard level problem related to graphs.,Advanced,Hard,19
+P0653,Hard Graphs Problem 653,This is a hard level problem related to graphs.,Advanced,Hard,93
+P0654,Hard Dynamic Programming Problem 654,This is a hard level problem related to dynamic programming.,Advanced,Hard,94
+P0655,Hard Graphs Problem 655,This is a hard level problem related to graphs.,Advanced,Hard,78
+P0656,Medium Greedy Problem 656,This is a medium level problem related to greedy.,Intermediate,Medium,89
+P0657,Medium Graphs Problem 657,This is a medium level problem related to graphs.,Intermediate,Medium,47
+P0658,Easy Math Problem 658,This is a easy level problem related to math.,Basic,Easy,34
+P0659,Medium Graphs Problem 659,This is a medium level problem related to graphs.,Intermediate,Medium,89
+P0660,Hard Data Structures Problem 660,This is a hard level problem related to data structures.,Advanced,Hard,98
+P0661,Easy Algorithm Problem 661,This is a easy level problem related to algorithm.,Basic,Easy,29
+P0662,Medium Math Problem 662,This is a medium level problem related to math.,Intermediate,Medium,78
+P0663,Medium Algorithm Problem 663,This is a medium level problem related to algorithm.,Intermediate,Medium,72
+P0664,Easy Math Problem 664,This is a easy level problem related to math.,Basic,Easy,27
+P0665,Hard Math Problem 665,This is a hard level problem related to math.,Advanced,Hard,30
+P0666,Medium Algorithm Problem 666,This is a medium level problem related to algorithm.,Intermediate,Medium,76
+P0667,Medium Data Structures Problem 667,This is a medium level problem related to data structures.,Intermediate,Medium,36
+P0668,Easy Algorithm Problem 668,This is a easy level problem related to algorithm.,Basic,Easy,15
+P0669,Medium Graphs Problem 669,This is a medium level problem related to graphs.,Intermediate,Medium,89
+P0670,Hard Algorithm Problem 670,This is a hard level problem related to algorithm.,Advanced,Hard,42
+P0671,Medium Dynamic Programming Problem 671,This is a medium level problem related to dynamic programming.,Intermediate,Medium,73
+P0672,Easy Data Structures Problem 672,This is a easy level problem related to data structures.,Basic,Easy,23
+P0673,Easy Greedy Problem 673,This is a easy level problem related to greedy.,Basic,Easy,22
+P0674,Medium Dynamic Programming Problem 674,This is a medium level problem related to dynamic programming.,Intermediate,Medium,48
+P0675,Easy Data Structures Problem 675,This is a easy level problem related to data structures.,Basic,Easy,85
+P0676,Medium Graphs Problem 676,This is a medium level problem related to graphs.,Intermediate,Medium,53
+P0677,Easy Greedy Problem 677,This is a easy level problem related to greedy.,Basic,Easy,71
+P0678,Easy Dynamic Programming Problem 678,This is a easy level problem related to dynamic programming.,Basic,Easy,73
+P0679,Medium Algorithm Problem 679,This is a medium level problem related to algorithm.,Intermediate,Medium,41
+P0680,Easy Data Structures Problem 680,This is a easy level problem related to data structures.,Basic,Easy,55
+P0681,Hard Data Structures Problem 681,This is a hard level problem related to data structures.,Advanced,Hard,22
+P0682,Easy Greedy Problem 682,This is a easy level problem related to greedy.,Basic,Easy,72
+P0683,Medium Greedy Problem 683,This is a medium level problem related to greedy.,Intermediate,Medium,30
+P0684,Medium Data Structures Problem 684,This is a medium level problem related to data structures.,Intermediate,Medium,50
+P0685,Easy Graphs Problem 685,This is a easy level problem related to graphs.,Basic,Easy,79
+P0686,Hard Math Problem 686,This is a hard level problem related to math.,Advanced,Hard,30
+P0687,Easy Dynamic Programming Problem 687,This is a easy level problem related to dynamic programming.,Basic,Easy,67
+P0688,Medium Algorithm Problem 688,This is a medium level problem related to algorithm.,Intermediate,Medium,31
+P0689,Hard Dynamic Programming Problem 689,This is a hard level problem related to dynamic programming.,Advanced,Hard,17
+P0690,Easy Algorithm Problem 690,This is a easy level problem related to algorithm.,Basic,Easy,46
+P0691,Easy Dynamic Programming Problem 691,This is a easy level problem related to dynamic programming.,Basic,Easy,28
+P0692,Medium Greedy Problem 692,This is a medium level problem related to greedy.,Intermediate,Medium,98
+P0693,Hard Graphs Problem 693,This is a hard level problem related to graphs.,Advanced,Hard,75
+P0694,Hard Graphs Problem 694,This is a hard level problem related to graphs.,Advanced,Hard,67
+P0695,Easy Greedy Problem 695,This is a easy level problem related to greedy.,Basic,Easy,67
+P0696,Easy Greedy Problem 696,This is a easy level problem related to greedy.,Basic,Easy,72
+P0697,Hard Algorithm Problem 697,This is a hard level problem related to algorithm.,Advanced,Hard,59
+P0698,Medium Data Structures Problem 698,This is a medium level problem related to data structures.,Intermediate,Medium,98
+P0699,Medium Greedy Problem 699,This is a medium level problem related to greedy.,Intermediate,Medium,17
+P0700,Hard Data Structures Problem 700,This is a hard level problem related to data structures.,Advanced,Hard,58
+P0701,Hard Math Problem 701,This is a hard level problem related to math.,Advanced,Hard,55
+P0702,Medium Algorithm Problem 702,This is a medium level problem related to algorithm.,Intermediate,Medium,67
+P0703,Hard Algorithm Problem 703,This is a hard level problem related to algorithm.,Advanced,Hard,24
+P0704,Easy Dynamic Programming Problem 704,This is a easy level problem related to dynamic programming.,Basic,Easy,77
+P0705,Medium Data Structures Problem 705,This is a medium level problem related to data structures.,Intermediate,Medium,51
+P0706,Medium Graphs Problem 706,This is a medium level problem related to graphs.,Intermediate,Medium,33
+P0707,Medium Graphs Problem 707,This is a medium level problem related to graphs.,Intermediate,Medium,58
+P0708,Medium Dynamic Programming Problem 708,This is a medium level problem related to dynamic programming.,Intermediate,Medium,48
+P0709,Hard Greedy Problem 709,This is a hard level problem related to greedy.,Advanced,Hard,88
+P0710,Medium Dynamic Programming Problem 710,This is a medium level problem related to dynamic programming.,Intermediate,Medium,85
+P0711,Easy Graphs Problem 711,This is a easy level problem related to graphs.,Basic,Easy,22
+P0712,Easy Graphs Problem 712,This is a easy level problem related to graphs.,Basic,Easy,84
+P0713,Easy Graphs Problem 713,This is a easy level problem related to graphs.,Basic,Easy,70
+P0714,Medium Data Structures Problem 714,This is a medium level problem related to data structures.,Intermediate,Medium,22
+P0715,Hard Math Problem 715,This is a hard level problem related to math.,Advanced,Hard,62
+P0716,Hard Greedy Problem 716,This is a hard level problem related to greedy.,Advanced,Hard,30
+P0717,Easy Algorithm Problem 717,This is a easy level problem related to algorithm.,Basic,Easy,50
+P0718,Medium Algorithm Problem 718,This is a medium level problem related to algorithm.,Intermediate,Medium,15
+P0719,Easy Algorithm Problem 719,This is a easy level problem related to algorithm.,Basic,Easy,74
+P0720,Easy Algorithm Problem 720,This is a easy level problem related to algorithm.,Basic,Easy,96
+P0721,Easy Math Problem 721,This is a easy level problem related to math.,Basic,Easy,17
+P0722,Easy Greedy Problem 722,This is a easy level problem related to greedy.,Basic,Easy,56
+P0723,Medium Dynamic Programming Problem 723,This is a medium level problem related to dynamic programming.,Intermediate,Medium,34
+P0724,Easy Data Structures Problem 724,This is a easy level problem related to data structures.,Basic,Easy,86
+P0725,Easy Algorithm Problem 725,This is a easy level problem related to algorithm.,Basic,Easy,50
+P0726,Easy Math Problem 726,This is a easy level problem related to math.,Basic,Easy,17
+P0727,Medium Dynamic Programming Problem 727,This is a medium level problem related to dynamic programming.,Intermediate,Medium,51
+P0728,Hard Math Problem 728,This is a hard level problem related to math.,Advanced,Hard,56
+P0729,Medium Data Structures Problem 729,This is a medium level problem related to data structures.,Intermediate,Medium,82
+P0730,Medium Graphs Problem 730,This is a medium level problem related to graphs.,Intermediate,Medium,13
+P0731,Medium Data Structures Problem 731,This is a medium level problem related to data structures.,Intermediate,Medium,14
+P0732,Easy Graphs Problem 732,This is a easy level problem related to graphs.,Basic,Easy,84
+P0733,Hard Math Problem 733,This is a hard level problem related to math.,Advanced,Hard,88
+P0734,Medium Math Problem 734,This is a medium level problem related to math.,Intermediate,Medium,31
+P0735,Easy Dynamic Programming Problem 735,This is a easy level problem related to dynamic programming.,Basic,Easy,31
+P0736,Medium Math Problem 736,This is a medium level problem related to math.,Intermediate,Medium,75
+P0737,Medium Algorithm Problem 737,This is a medium level problem related to algorithm.,Intermediate,Medium,87
+P0738,Medium Algorithm Problem 738,This is a medium level problem related to algorithm.,Intermediate,Medium,92
+P0739,Hard Data Structures Problem 739,This is a hard level problem related to data structures.,Advanced,Hard,15
+P0740,Medium Math Problem 740,This is a medium level problem related to math.,Intermediate,Medium,41
+P0741,Medium Dynamic Programming Problem 741,This is a medium level problem related to dynamic programming.,Intermediate,Medium,23
+P0742,Hard Data Structures Problem 742,This is a hard level problem related to data structures.,Advanced,Hard,77
+P0743,Easy Greedy Problem 743,This is a easy level problem related to greedy.,Basic,Easy,48
+P0744,Medium Algorithm Problem 744,This is a medium level problem related to algorithm.,Intermediate,Medium,31
+P0745,Medium Graphs Problem 745,This is a medium level problem related to graphs.,Intermediate,Medium,85
+P0746,Hard Math Problem 746,This is a hard level problem related to math.,Advanced,Hard,65
+P0747,Easy Data Structures Problem 747,This is a easy level problem related to data structures.,Basic,Easy,19
+P0748,Medium Graphs Problem 748,This is a medium level problem related to graphs.,Intermediate,Medium,19
+P0749,Medium Algorithm Problem 749,This is a medium level problem related to algorithm.,Intermediate,Medium,79
+P0750,Easy Dynamic Programming Problem 750,This is a easy level problem related to dynamic programming.,Basic,Easy,18
+P0751,Easy Data Structures Problem 751,This is a easy level problem related to data structures.,Basic,Easy,97
+P0752,Hard Math Problem 752,This is a hard level problem related to math.,Advanced,Hard,93
+P0753,Easy Dynamic Programming Problem 753,This is a easy level problem related to dynamic programming.,Basic,Easy,67
+P0754,Medium Greedy Problem 754,This is a medium level problem related to greedy.,Intermediate,Medium,16
+P0755,Medium Algorithm Problem 755,This is a medium level problem related to algorithm.,Intermediate,Medium,55
+P0756,Medium Dynamic Programming Problem 756,This is a medium level problem related to dynamic programming.,Intermediate,Medium,97
+P0757,Easy Dynamic Programming Problem 757,This is a easy level problem related to dynamic programming.,Basic,Easy,28
+P0758,Medium Algorithm Problem 758,This is a medium level problem related to algorithm.,Intermediate,Medium,34
+P0759,Hard Data Structures Problem 759,This is a hard level problem related to data structures.,Advanced,Hard,65
+P0760,Hard Algorithm Problem 760,This is a hard level problem related to algorithm.,Advanced,Hard,10
+P0761,Hard Graphs Problem 761,This is a hard level problem related to graphs.,Advanced,Hard,78
+P0762,Easy Math Problem 762,This is a easy level problem related to math.,Basic,Easy,94
+P0763,Easy Graphs Problem 763,This is a easy level problem related to graphs.,Basic,Easy,52
+P0764,Hard Data Structures Problem 764,This is a hard level problem related to data structures.,Advanced,Hard,95
+P0765,Hard Dynamic Programming Problem 765,This is a hard level problem related to dynamic programming.,Advanced,Hard,83
+P0766,Hard Greedy Problem 766,This is a hard level problem related to greedy.,Advanced,Hard,24
+P0767,Hard Greedy Problem 767,This is a hard level problem related to greedy.,Advanced,Hard,58
+P0768,Medium Graphs Problem 768,This is a medium level problem related to graphs.,Intermediate,Medium,68
+P0769,Medium Dynamic Programming Problem 769,This is a medium level problem related to dynamic programming.,Intermediate,Medium,73
+P0770,Medium Graphs Problem 770,This is a medium level problem related to graphs.,Intermediate,Medium,43
+P0771,Medium Math Problem 771,This is a medium level problem related to math.,Intermediate,Medium,48
+P0772,Medium Math Problem 772,This is a medium level problem related to math.,Intermediate,Medium,63
+P0773,Hard Graphs Problem 773,This is a hard level problem related to graphs.,Advanced,Hard,66
+P0774,Medium Greedy Problem 774,This is a medium level problem related to greedy.,Intermediate,Medium,70
+P0775,Easy Math Problem 775,This is a easy level problem related to math.,Basic,Easy,55
+P0776,Easy Greedy Problem 776,This is a easy level problem related to greedy.,Basic,Easy,82
+P0777,Hard Dynamic Programming Problem 777,This is a hard level problem related to dynamic programming.,Advanced,Hard,30
+P0778,Medium Algorithm Problem 778,This is a medium level problem related to algorithm.,Intermediate,Medium,35
+P0779,Easy Graphs Problem 779,This is a easy level problem related to graphs.,Basic,Easy,55
+P0780,Hard Greedy Problem 780,This is a hard level problem related to greedy.,Advanced,Hard,36
+P0781,Medium Graphs Problem 781,This is a medium level problem related to graphs.,Intermediate,Medium,43
+P0782,Hard Math Problem 782,This is a hard level problem related to math.,Advanced,Hard,12
+P0783,Easy Math Problem 783,This is a easy level problem related to math.,Basic,Easy,30
+P0784,Medium Dynamic Programming Problem 784,This is a medium level problem related to dynamic programming.,Intermediate,Medium,68
+P0785,Medium Data Structures Problem 785,This is a medium level problem related to data structures.,Intermediate,Medium,30
+P0786,Easy Algorithm Problem 786,This is a easy level problem related to algorithm.,Basic,Easy,67
+P0787,Medium Dynamic Programming Problem 787,This is a medium level problem related to dynamic programming.,Intermediate,Medium,65
+P0788,Hard Data Structures Problem 788,This is a hard level problem related to data structures.,Advanced,Hard,71
+P0789,Hard Greedy Problem 789,This is a hard level problem related to greedy.,Advanced,Hard,32
+P0790,Medium Greedy Problem 790,This is a medium level problem related to greedy.,Intermediate,Medium,93
+P0791,Hard Dynamic Programming Problem 791,This is a hard level problem related to dynamic programming.,Advanced,Hard,78
+P0792,Medium Dynamic Programming Problem 792,This is a medium level problem related to dynamic programming.,Intermediate,Medium,50
+P0793,Easy Greedy Problem 793,This is a easy level problem related to greedy.,Basic,Easy,94
+P0794,Easy Dynamic Programming Problem 794,This is a easy level problem related to dynamic programming.,Basic,Easy,47
+P0795,Easy Graphs Problem 795,This is a easy level problem related to graphs.,Basic,Easy,36
+P0796,Easy Dynamic Programming Problem 796,This is a easy level problem related to dynamic programming.,Basic,Easy,72
+P0797,Hard Algorithm Problem 797,This is a hard level problem related to algorithm.,Advanced,Hard,59
+P0798,Medium Data Structures Problem 798,This is a medium level problem related to data structures.,Intermediate,Medium,98
+P0799,Easy Math Problem 799,This is a easy level problem related to math.,Basic,Easy,30
+P0800,Medium Algorithm Problem 800,This is a medium level problem related to algorithm.,Intermediate,Medium,49
+P0801,Easy Algorithm Problem 801,This is a easy level problem related to algorithm.,Basic,Easy,96
+P0802,Easy Data Structures Problem 802,This is a easy level problem related to data structures.,Basic,Easy,98
+P0803,Medium Graphs Problem 803,This is a medium level problem related to graphs.,Intermediate,Medium,78
+P0804,Medium Dynamic Programming Problem 804,This is a medium level problem related to dynamic programming.,Intermediate,Medium,46
+P0805,Easy Dynamic Programming Problem 805,This is a easy level problem related to dynamic programming.,Basic,Easy,95
+P0806,Easy Graphs Problem 806,This is a easy level problem related to graphs.,Basic,Easy,12
+P0807,Easy Greedy Problem 807,This is a easy level problem related to greedy.,Basic,Easy,55
+P0808,Hard Math Problem 808,This is a hard level problem related to math.,Advanced,Hard,48
+P0809,Easy Graphs Problem 809,This is a easy level problem related to graphs.,Basic,Easy,27
+P0810,Easy Dynamic Programming Problem 810,This is a easy level problem related to dynamic programming.,Basic,Easy,80
+P0811,Medium Greedy Problem 811,This is a medium level problem related to greedy.,Intermediate,Medium,88
+P0812,Medium Greedy Problem 812,This is a medium level problem related to greedy.,Intermediate,Medium,18
+P0813,Medium Algorithm Problem 813,This is a medium level problem related to algorithm.,Intermediate,Medium,69
+P0814,Easy Math Problem 814,This is a easy level problem related to math.,Basic,Easy,53
+P0815,Medium Math Problem 815,This is a medium level problem related to math.,Intermediate,Medium,82
+P0816,Medium Algorithm Problem 816,This is a medium level problem related to algorithm.,Intermediate,Medium,31
+P0817,Hard Dynamic Programming Problem 817,This is a hard level problem related to dynamic programming.,Advanced,Hard,29
+P0818,Hard Graphs Problem 818,This is a hard level problem related to graphs.,Advanced,Hard,71
+P0819,Easy Algorithm Problem 819,This is a easy level problem related to algorithm.,Basic,Easy,19
+P0820,Hard Math Problem 820,This is a hard level problem related to math.,Advanced,Hard,63
+P0821,Medium Graphs Problem 821,This is a medium level problem related to graphs.,Intermediate,Medium,97
+P0822,Easy Data Structures Problem 822,This is a easy level problem related to data structures.,Basic,Easy,93
+P0823,Hard Dynamic Programming Problem 823,This is a hard level problem related to dynamic programming.,Advanced,Hard,40
+P0824,Easy Math Problem 824,This is a easy level problem related to math.,Basic,Easy,23
+P0825,Easy Math Problem 825,This is a easy level problem related to math.,Basic,Easy,16
+P0826,Medium Algorithm Problem 826,This is a medium level problem related to algorithm.,Intermediate,Medium,84
+P0827,Easy Greedy Problem 827,This is a easy level problem related to greedy.,Basic,Easy,80
+P0828,Hard Graphs Problem 828,This is a hard level problem related to graphs.,Advanced,Hard,23
+P0829,Hard Graphs Problem 829,This is a hard level problem related to graphs.,Advanced,Hard,18
+P0830,Hard Algorithm Problem 830,This is a hard level problem related to algorithm.,Advanced,Hard,39
+P0831,Easy Greedy Problem 831,This is a easy level problem related to greedy.,Basic,Easy,64
+P0832,Medium Data Structures Problem 832,This is a medium level problem related to data structures.,Intermediate,Medium,10
+P0833,Easy Algorithm Problem 833,This is a easy level problem related to algorithm.,Basic,Easy,90
+P0834,Medium Data Structures Problem 834,This is a medium level problem related to data structures.,Intermediate,Medium,53
+P0835,Hard Dynamic Programming Problem 835,This is a hard level problem related to dynamic programming.,Advanced,Hard,10
+P0836,Hard Data Structures Problem 836,This is a hard level problem related to data structures.,Advanced,Hard,58
+P0837,Easy Data Structures Problem 837,This is a easy level problem related to data structures.,Basic,Easy,33
+P0838,Easy Graphs Problem 838,This is a easy level problem related to graphs.,Basic,Easy,70
+P0839,Hard Graphs Problem 839,This is a hard level problem related to graphs.,Advanced,Hard,80
+P0840,Medium Dynamic Programming Problem 840,This is a medium level problem related to dynamic programming.,Intermediate,Medium,13
+P0841,Medium Data Structures Problem 841,This is a medium level problem related to data structures.,Intermediate,Medium,12
+P0842,Medium Data Structures Problem 842,This is a medium level problem related to data structures.,Intermediate,Medium,54
+P0843,Medium Algorithm Problem 843,This is a medium level problem related to algorithm.,Intermediate,Medium,89
+P0844,Medium Math Problem 844,This is a medium level problem related to math.,Intermediate,Medium,35
+P0845,Medium Graphs Problem 845,This is a medium level problem related to graphs.,Intermediate,Medium,23
+P0846,Medium Graphs Problem 846,This is a medium level problem related to graphs.,Intermediate,Medium,85
+P0847,Easy Graphs Problem 847,This is a easy level problem related to graphs.,Basic,Easy,47
+P0848,Easy Greedy Problem 848,This is a easy level problem related to greedy.,Basic,Easy,11
+P0849,Easy Graphs Problem 849,This is a easy level problem related to graphs.,Basic,Easy,24
+P0850,Easy Math Problem 850,This is a easy level problem related to math.,Basic,Easy,67
+P0851,Medium Math Problem 851,This is a medium level problem related to math.,Intermediate,Medium,69
+P0852,Medium Greedy Problem 852,This is a medium level problem related to greedy.,Intermediate,Medium,19
+P0853,Easy Data Structures Problem 853,This is a easy level problem related to data structures.,Basic,Easy,25
+P0854,Hard Dynamic Programming Problem 854,This is a hard level problem related to dynamic programming.,Advanced,Hard,92
+P0855,Hard Data Structures Problem 855,This is a hard level problem related to data structures.,Advanced,Hard,52
+P0856,Medium Algorithm Problem 856,This is a medium level problem related to algorithm.,Intermediate,Medium,30
+P0857,Hard Data Structures Problem 857,This is a hard level problem related to data structures.,Advanced,Hard,69
+P0858,Easy Dynamic Programming Problem 858,This is a easy level problem related to dynamic programming.,Basic,Easy,43
+P0859,Hard Dynamic Programming Problem 859,This is a hard level problem related to dynamic programming.,Advanced,Hard,31
+P0860,Medium Dynamic Programming Problem 860,This is a medium level problem related to dynamic programming.,Intermediate,Medium,67
+P0861,Hard Greedy Problem 861,This is a hard level problem related to greedy.,Advanced,Hard,75
+P0862,Medium Greedy Problem 862,This is a medium level problem related to greedy.,Intermediate,Medium,51
+P0863,Hard Algorithm Problem 863,This is a hard level problem related to algorithm.,Advanced,Hard,48
+P0864,Hard Greedy Problem 864,This is a hard level problem related to greedy.,Advanced,Hard,40
+P0865,Medium Greedy Problem 865,This is a medium level problem related to greedy.,Intermediate,Medium,24
+P0866,Hard Graphs Problem 866,This is a hard level problem related to graphs.,Advanced,Hard,37
+P0867,Medium Dynamic Programming Problem 867,This is a medium level problem related to dynamic programming.,Intermediate,Medium,26
+P0868,Medium Graphs Problem 868,This is a medium level problem related to graphs.,Intermediate,Medium,89
+P0869,Easy Graphs Problem 869,This is a easy level problem related to graphs.,Basic,Easy,18
+P0870,Medium Dynamic Programming Problem 870,This is a medium level problem related to dynamic programming.,Intermediate,Medium,13
+P0871,Medium Math Problem 871,This is a medium level problem related to math.,Intermediate,Medium,55
+P0872,Easy Dynamic Programming Problem 872,This is a easy level problem related to dynamic programming.,Basic,Easy,36
+P0873,Hard Data Structures Problem 873,This is a hard level problem related to data structures.,Advanced,Hard,56
+P0874,Easy Math Problem 874,This is a easy level problem related to math.,Basic,Easy,52
+P0875,Medium Dynamic Programming Problem 875,This is a medium level problem related to dynamic programming.,Intermediate,Medium,22
+P0876,Medium Dynamic Programming Problem 876,This is a medium level problem related to dynamic programming.,Intermediate,Medium,37
+P0877,Easy Data Structures Problem 877,This is a easy level problem related to data structures.,Basic,Easy,12
+P0878,Easy Math Problem 878,This is a easy level problem related to math.,Basic,Easy,29
+P0879,Medium Graphs Problem 879,This is a medium level problem related to graphs.,Intermediate,Medium,43
+P0880,Medium Algorithm Problem 880,This is a medium level problem related to algorithm.,Intermediate,Medium,99
+P0881,Medium Data Structures Problem 881,This is a medium level problem related to data structures.,Intermediate,Medium,89
+P0882,Easy Graphs Problem 882,This is a easy level problem related to graphs.,Basic,Easy,14
+P0883,Hard Dynamic Programming Problem 883,This is a hard level problem related to dynamic programming.,Advanced,Hard,90
+P0884,Medium Dynamic Programming Problem 884,This is a medium level problem related to dynamic programming.,Intermediate,Medium,14
+P0885,Hard Data Structures Problem 885,This is a hard level problem related to data structures.,Advanced,Hard,62
+P0886,Medium Math Problem 886,This is a medium level problem related to math.,Intermediate,Medium,49
+P0887,Hard Dynamic Programming Problem 887,This is a hard level problem related to dynamic programming.,Advanced,Hard,67
+P0888,Hard Data Structures Problem 888,This is a hard level problem related to data structures.,Advanced,Hard,87
+P0889,Medium Dynamic Programming Problem 889,This is a medium level problem related to dynamic programming.,Intermediate,Medium,21
+P0890,Medium Dynamic Programming Problem 890,This is a medium level problem related to dynamic programming.,Intermediate,Medium,21
+P0891,Medium Algorithm Problem 891,This is a medium level problem related to algorithm.,Intermediate,Medium,12
+P0892,Easy Algorithm Problem 892,This is a easy level problem related to algorithm.,Basic,Easy,91
+P0893,Hard Data Structures Problem 893,This is a hard level problem related to data structures.,Advanced,Hard,33
+P0894,Medium Dynamic Programming Problem 894,This is a medium level problem related to dynamic programming.,Intermediate,Medium,84
+P0895,Easy Data Structures Problem 895,This is a easy level problem related to data structures.,Basic,Easy,52
+P0896,Hard Data Structures Problem 896,This is a hard level problem related to data structures.,Advanced,Hard,100
+P0897,Medium Graphs Problem 897,This is a medium level problem related to graphs.,Intermediate,Medium,22
+P0898,Easy Greedy Problem 898,This is a easy level problem related to greedy.,Basic,Easy,24
+P0899,Medium Data Structures Problem 899,This is a medium level problem related to data structures.,Intermediate,Medium,71
+P0900,Hard Math Problem 900,This is a hard level problem related to math.,Advanced,Hard,43
+P0901,Hard Greedy Problem 901,This is a hard level problem related to greedy.,Advanced,Hard,72
+P0902,Medium Graphs Problem 902,This is a medium level problem related to graphs.,Intermediate,Medium,61
+P0903,Hard Math Problem 903,This is a hard level problem related to math.,Advanced,Hard,61
+P0904,Easy Greedy Problem 904,This is a easy level problem related to greedy.,Basic,Easy,60
+P0905,Medium Math Problem 905,This is a medium level problem related to math.,Intermediate,Medium,65
+P0906,Medium Algorithm Problem 906,This is a medium level problem related to algorithm.,Intermediate,Medium,99
+P0907,Easy Data Structures Problem 907,This is a easy level problem related to data structures.,Basic,Easy,54
+P0908,Hard Dynamic Programming Problem 908,This is a hard level problem related to dynamic programming.,Advanced,Hard,79
+P0909,Easy Algorithm Problem 909,This is a easy level problem related to algorithm.,Basic,Easy,14
+P0910,Medium Dynamic Programming Problem 910,This is a medium level problem related to dynamic programming.,Intermediate,Medium,42
+P0911,Medium Greedy Problem 911,This is a medium level problem related to greedy.,Intermediate,Medium,73
+P0912,Easy Data Structures Problem 912,This is a easy level problem related to data structures.,Basic,Easy,11
+P0913,Medium Math Problem 913,This is a medium level problem related to math.,Intermediate,Medium,17
+P0914,Easy Greedy Problem 914,This is a easy level problem related to greedy.,Basic,Easy,20
+P0915,Easy Dynamic Programming Problem 915,This is a easy level problem related to dynamic programming.,Basic,Easy,44
+P0916,Hard Dynamic Programming Problem 916,This is a hard level problem related to dynamic programming.,Advanced,Hard,91
+P0917,Easy Graphs Problem 917,This is a easy level problem related to graphs.,Basic,Easy,97
+P0918,Medium Math Problem 918,This is a medium level problem related to math.,Intermediate,Medium,89
+P0919,Hard Dynamic Programming Problem 919,This is a hard level problem related to dynamic programming.,Advanced,Hard,47
+P0920,Medium Greedy Problem 920,This is a medium level problem related to greedy.,Intermediate,Medium,23
+P0921,Hard Algorithm Problem 921,This is a hard level problem related to algorithm.,Advanced,Hard,31
+P0922,Hard Algorithm Problem 922,This is a hard level problem related to algorithm.,Advanced,Hard,68
+P0923,Easy Data Structures Problem 923,This is a easy level problem related to data structures.,Basic,Easy,12
+P0924,Hard Dynamic Programming Problem 924,This is a hard level problem related to dynamic programming.,Advanced,Hard,90
+P0925,Hard Math Problem 925,This is a hard level problem related to math.,Advanced,Hard,89
+P0926,Easy Greedy Problem 926,This is a easy level problem related to greedy.,Basic,Easy,71
+P0927,Easy Algorithm Problem 927,This is a easy level problem related to algorithm.,Basic,Easy,49
+P0928,Easy Graphs Problem 928,This is a easy level problem related to graphs.,Basic,Easy,88
+P0929,Easy Data Structures Problem 929,This is a easy level problem related to data structures.,Basic,Easy,86
+P0930,Hard Dynamic Programming Problem 930,This is a hard level problem related to dynamic programming.,Advanced,Hard,19
+P0931,Easy Greedy Problem 931,This is a easy level problem related to greedy.,Basic,Easy,99
+P0932,Easy Math Problem 932,This is a easy level problem related to math.,Basic,Easy,29
+P0933,Easy Algorithm Problem 933,This is a easy level problem related to algorithm.,Basic,Easy,44
+P0934,Medium Math Problem 934,This is a medium level problem related to math.,Intermediate,Medium,14
+P0935,Hard Math Problem 935,This is a hard level problem related to math.,Advanced,Hard,38
+P0936,Hard Math Problem 936,This is a hard level problem related to math.,Advanced,Hard,42
+P0937,Hard Data Structures Problem 937,This is a hard level problem related to data structures.,Advanced,Hard,89
+P0938,Easy Graphs Problem 938,This is a easy level problem related to graphs.,Basic,Easy,39
+P0939,Easy Greedy Problem 939,This is a easy level problem related to greedy.,Basic,Easy,97
+P0940,Medium Math Problem 940,This is a medium level problem related to math.,Intermediate,Medium,22
+P0941,Easy Math Problem 941,This is a easy level problem related to math.,Basic,Easy,13
+P0942,Hard Data Structures Problem 942,This is a hard level problem related to data structures.,Advanced,Hard,75
+P0943,Easy Greedy Problem 943,This is a easy level problem related to greedy.,Basic,Easy,93
+P0944,Hard Graphs Problem 944,This is a hard level problem related to graphs.,Advanced,Hard,63
+P0945,Easy Data Structures Problem 945,This is a easy level problem related to data structures.,Basic,Easy,11
+P0946,Medium Greedy Problem 946,This is a medium level problem related to greedy.,Intermediate,Medium,74
+P0947,Hard Greedy Problem 947,This is a hard level problem related to greedy.,Advanced,Hard,74
+P0948,Easy Data Structures Problem 948,This is a easy level problem related to data structures.,Basic,Easy,97
+P0949,Hard Algorithm Problem 949,This is a hard level problem related to algorithm.,Advanced,Hard,81
+P0950,Medium Data Structures Problem 950,This is a medium level problem related to data structures.,Intermediate,Medium,32
+P0951,Hard Algorithm Problem 951,This is a hard level problem related to algorithm.,Advanced,Hard,74
+P0952,Hard Math Problem 952,This is a hard level problem related to math.,Advanced,Hard,52
+P0953,Hard Dynamic Programming Problem 953,This is a hard level problem related to dynamic programming.,Advanced,Hard,42
+P0954,Medium Dynamic Programming Problem 954,This is a medium level problem related to dynamic programming.,Intermediate,Medium,53
+P0955,Hard Algorithm Problem 955,This is a hard level problem related to algorithm.,Advanced,Hard,45
+P0956,Easy Dynamic Programming Problem 956,This is a easy level problem related to dynamic programming.,Basic,Easy,55
+P0957,Easy Data Structures Problem 957,This is a easy level problem related to data structures.,Basic,Easy,56
+P0958,Hard Math Problem 958,This is a hard level problem related to math.,Advanced,Hard,88
+P0959,Hard Math Problem 959,This is a hard level problem related to math.,Advanced,Hard,63
+P0960,Medium Dynamic Programming Problem 960,This is a medium level problem related to dynamic programming.,Intermediate,Medium,99
+P0961,Hard Data Structures Problem 961,This is a hard level problem related to data structures.,Advanced,Hard,33
+P0962,Medium Algorithm Problem 962,This is a medium level problem related to algorithm.,Intermediate,Medium,50
+P0963,Hard Algorithm Problem 963,This is a hard level problem related to algorithm.,Advanced,Hard,92
+P0964,Hard Math Problem 964,This is a hard level problem related to math.,Advanced,Hard,81
+P0965,Medium Math Problem 965,This is a medium level problem related to math.,Intermediate,Medium,69
+P0966,Easy Greedy Problem 966,This is a easy level problem related to greedy.,Basic,Easy,12
+P0967,Easy Dynamic Programming Problem 967,This is a easy level problem related to dynamic programming.,Basic,Easy,98
+P0968,Easy Graphs Problem 968,This is a easy level problem related to graphs.,Basic,Easy,54
+P0969,Easy Algorithm Problem 969,This is a easy level problem related to algorithm.,Basic,Easy,77
+P0970,Medium Data Structures Problem 970,This is a medium level problem related to data structures.,Intermediate,Medium,53
+P0971,Easy Greedy Problem 971,This is a easy level problem related to greedy.,Basic,Easy,59
+P0972,Easy Dynamic Programming Problem 972,This is a easy level problem related to dynamic programming.,Basic,Easy,22
+P0973,Medium Graphs Problem 973,This is a medium level problem related to graphs.,Intermediate,Medium,27
+P0974,Easy Math Problem 974,This is a easy level problem related to math.,Basic,Easy,76
+P0975,Hard Greedy Problem 975,This is a hard level problem related to greedy.,Advanced,Hard,14
+P0976,Hard Greedy Problem 976,This is a hard level problem related to greedy.,Advanced,Hard,90
+P0977,Hard Greedy Problem 977,This is a hard level problem related to greedy.,Advanced,Hard,50
+P0978,Easy Graphs Problem 978,This is a easy level problem related to graphs.,Basic,Easy,19
+P0979,Medium Greedy Problem 979,This is a medium level problem related to greedy.,Intermediate,Medium,69
+P0980,Easy Graphs Problem 980,This is a easy level problem related to graphs.,Basic,Easy,79
+P0981,Medium Greedy Problem 981,This is a medium level problem related to greedy.,Intermediate,Medium,81
+P0982,Easy Data Structures Problem 982,This is a easy level problem related to data structures.,Basic,Easy,68
+P0983,Easy Data Structures Problem 983,This is a easy level problem related to data structures.,Basic,Easy,42
+P0984,Easy Greedy Problem 984,This is a easy level problem related to greedy.,Basic,Easy,38
+P0985,Easy Dynamic Programming Problem 985,This is a easy level problem related to dynamic programming.,Basic,Easy,68
+P0986,Easy Data Structures Problem 986,This is a easy level problem related to data structures.,Basic,Easy,17
+P0987,Hard Greedy Problem 987,This is a hard level problem related to greedy.,Advanced,Hard,35
+P0988,Hard Math Problem 988,This is a hard level problem related to math.,Advanced,Hard,11
+P0989,Easy Dynamic Programming Problem 989,This is a easy level problem related to dynamic programming.,Basic,Easy,31
+P0990,Easy Math Problem 990,This is a easy level problem related to math.,Basic,Easy,47
+P0991,Easy Math Problem 991,This is a easy level problem related to math.,Basic,Easy,33
+P0992,Hard Greedy Problem 992,This is a hard level problem related to greedy.,Advanced,Hard,87
+P0993,Medium Data Structures Problem 993,This is a medium level problem related to data structures.,Intermediate,Medium,57
+P0994,Easy Algorithm Problem 994,This is a easy level problem related to algorithm.,Basic,Easy,18
+P0995,Medium Algorithm Problem 995,This is a medium level problem related to algorithm.,Intermediate,Medium,28
+P0996,Medium Algorithm Problem 996,This is a medium level problem related to algorithm.,Intermediate,Medium,78
+P0997,Medium Data Structures Problem 997,This is a medium level problem related to data structures.,Intermediate,Medium,74
+P0998,Medium Math Problem 998,This is a medium level problem related to math.,Intermediate,Medium,79
+P0999,Medium Graphs Problem 999,This is a medium level problem related to graphs.,Intermediate,Medium,15
+P1000,Hard Data Structures Problem 1000,This is a hard level problem related to data structures.,Advanced,Hard,24
